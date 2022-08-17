@@ -553,7 +553,172 @@
         }
       }
     },
-    "KHM": {},
-    "LAO": {}
+    "KHM": {
+
+    },
+    "LAO": {
+      "2017": {
+        "household": {
+          "filename": "hh_2017.sav",
+          "cluster_id": "HH1",
+          "household_id": "HH2",
+          "residence": {
+            "col_name": "HH6",
+            "rename": {
+              "HH6": "residence"
+            },
+            "replace": {
+              "URBAN": "Urban",
+              "RURAL WITH ROAD": "Rural",
+              "RURAL WITHOUT ROAD": "Rural"
+            }
+          },
+          "region": {
+            "col_name": "HH7",
+            "rename": {
+              "HH7": "region"
+            },
+            "replace": {
+                "ATTAPEU": "South",
+                "BOKEO": "North",
+                "BORIKHAMXAY": "Central",
+                "CHAMPASACK": "South",
+                "HUAPHANH": "North",
+                "KHAMMUA": "Central",
+                "LUANGNAMTHA": "North",
+                "LUANGPRABANG": "North",
+                "OUDOMXAY": "North",
+                "PHONGSALY": "North",
+                "SARAVANE": "South",
+                "SAVANNAKHET": "Central",
+                "SEKONG": "South",
+                "VIENTIANE": "Central",
+                "VIENTIANE CAPITAL": "Central",
+                "XAYABURY": "North",
+                "XAYSOMBOUNE": "Central",
+                "XIENGKHUANG": "Central"
+            }
+          },
+          "wealth": {
+            "col_name": "windex5",
+            "rename": {
+              "windex5": "wealth_q"
+            },
+            "replace": {
+              "Poorest": "Poorest",
+              "Poor": "Poor",
+              "Middle": "Middle",
+              "Rich": "Rich",
+              "Richest": "Richest"
+            }
+          },
+          "eth_hoh": {
+            "col_name": "HC2",
+            "rename": {
+              "HC2": "eth_hoh"
+            },
+            "replace": {
+                "AKHA" : "Chinese-Tibetan",
+                "BID": "Mon-Khmer",
+                "BRAO": "Mon-Khmer",
+                "CHENG": "Mon-Khmer",
+                "EWMIEN": "Hmong-Mien",
+                "HARAK": "Mon-Khmer",
+                "HAYI": "Chinese-Tibetan",
+                "HMONG": "Hmong-Mien",
+                "HOR": "Chinese-Tibetan",
+                "KATANG": "Mon-Khmer",
+                "KATU": "Mon-Khmer",
+                "KHMER": "Mon-Khmer",
+                "KHMOU": "Mon-Khmer",
+                "KREE": "Mon-Khmer",
+                "KRIANG": "Mon-Khmer",
+                "LAHOU": "Chinese-Tibetan",
+                "LAMED": "Mon-Khmer",
+                "LAO": "Lao-Tai",
+                "LAVY": "Mon-Khmer",
+                "LOLO": "Chinese-Tibetan",
+                "LUE": "Lao-Tai",
+                "MAKONG": "Mon-Khmer",
+                "NGOUAN": "Mon-Khmer",
+                "NHAHEUN": "Mon-Khmer",
+                "NHOAUN": "Lao-Tai",
+                "NO RESPONE": "Other, DK, Missing",
+                "OEDOU": "Mon-Khmer",
+                "OTHER": "Other, DK, Missing",
+                "OY": "Mon-Khmer",
+                "PACOH": "Mon-Khmer",
+                "PHONG": "Mon-Khmer",
+                "PHOUTHAY": "Lao-Tai",
+                "POUNOY": "Chinese-Tibetan",
+                "PRAY": "Mon-Khmer",
+                "SAMTAO": "Mon-Khmer",
+                "SYLA": "Chinese-Tibetan",
+                "TA-OY": "Mon-Khmer",
+                "THAEN": "Mon-Khmer",
+                "THAI": "Lao-Tai",
+                "THAINEAU": "Lao-Tai",
+                "TRI": "Mon-Khmer",
+                "TRIENG": "Mon-Khmer",
+                "XAEK": "Lao-Tai",
+                "XINGMOUN": "Mon-Khmer",
+                "XUAY": "Mon-Khmer",
+                "YAE": "Mon-Khmer",
+                "YANG": "Lao-Tai",
+                "YROU": "Mon-Khmer",
+                "NaN": "Other, DK, Missing"
+            }
+          }
+        },
+        "listing": {
+          "filename": "hl_2017.sav",
+          "cluster_id": "HH1",
+          "household_id": "HH2",
+          "mem_id": "HL1",
+          "relationship_hoh": {
+            "col_name": "HL3",
+            "value": "HEAD"
+          },
+          "sex_hoh": {
+            "col_name": "HL4",
+            "rename": {
+              "HL4": "sex_hoh"
+            },
+            "replace": {
+              "FEMALE": "Female",
+              "MALE": "Male"
+            }
+          },
+          "elderly_hoh": {
+            "col_name": "HL6",
+            "rename": {
+                "HL6": "elderly_hoh"
+            },
+            "replace": null
+          },
+          "edu": {
+            "col_name": ["ED5A"]
+          }
+        },
+        "women": {
+          "filename": "wm_2017.sav",
+          "cluster_id": "HH1",
+          "household_id": "HH2",
+          "weight": ["wmweight"]
+        },
+        "children": {
+          "filename": "ch_2017.sav",
+          "cluster_id": "HH1",
+          "household_id": "HH2",
+          "weight": ["chweight"]
+        },
+        "merge": {
+          "filename": {
+            "hh": "LAO_2017_household_merge.csv",
+            "hl": "LAO_2017_listing_merge.csv"
+          }
+        }
+      }
+    }
   }
 }
