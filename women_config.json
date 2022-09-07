@@ -497,12 +497,13 @@
       "inst_delivery": {
         "col_names": ["MN20"],
         "values": [
-          "PUBLIC HOSPITAL",
+          "GOVERNMENT HOSPITAL",
+          "HEALTH CENTRE",
           "PRIVATE HOSPITAL",
-          "COMMUNE HEALTH CENTRE",
-          "LOCAL CLINIC",
-          "HOSPITAL OF A MINISTRY OR A SECTOR",
-          "OTHER PRIVATE MEDICAL"
+          "OTHER PUBLIC",
+          "OTHER PRIVATE MEDICAL",
+          "PRIVATE CLINIC",
+          "PRIVATE MATERNITY HOME"
         ]
       },
       "caesarean_del": {
@@ -528,7 +529,7 @@
               }
             },
             "pnc_health_provider": {
-              "col_names": ["PN23A", "PN23B", "PN23F", "PN23G"]
+              "col_names": ["PN23A", "PN23B", "PN23C", "PN23F", "PN23G"]
             }
           }
         }
@@ -542,9 +543,13 @@
         }
       },
       "early_bf": {
+        "ever_bf": {
+            "col_names": ["MN36"],
+            "values": ["YES"]
+        },
         "time_cat": {
           "col_names": ["MN37U"],
-          "values": ["IMMEDIATELY", "HOURS", "DAYS", "SPECIAL"]
+          "values": ["IMMEDIATELY", "MINUTES", "HOURS", "DAYS", "SPECIAL"]
         },
         "time_num": {
           "col_names": ["MN37N"],

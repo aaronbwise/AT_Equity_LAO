@@ -183,29 +183,6 @@ def create_pnc_mother(df, country, year):
     return df
 
 
-# def create_low_bw(df, country, year):
-#     """
-#     Function to create Low Birthweight [low_bw]
-#     """
-#     # :: COL_NAMES
-#     var_low_bw = config_data_w[country][year]["low_bw"]["col_names"][0]
-
-#     ## Cast categorical values with str
-#     df[var_low_bw] = df[var_low_bw].astype(str)
-
-#     ## Replace str value with values
-#     str_replace_dict = generate_str_replace_dict(country, year, "low_bw")
-#     df = df.replace(str_replace_dict)
-
-#     ## Cast str values to float
-#     df[var_low_bw] = pd.to_numeric(df[var_low_bw], errors="coerce")
-
-#     # Create indicator
-#     df["low_bw"] = np.where(df[var_low_bw] < 2.5, 100, 0)
-
-#     return df
-
-
 def create_early_bf(df, country, year):
     """
     Function to create Early Initiation BF [early_bf]
@@ -214,6 +191,7 @@ def create_early_bf(df, country, year):
     df = update_early_bf_variables(df, country, year)
 
     # :: COL_NAMES
+    var_ever_bf = config_data_w[country][year]["early_bf"]["ever_bf"]["col_names"][0]
     var_time_cat = config_data_w[country][year]["early_bf"]["time_cat"]["col_names"][0]
     var_time_num = config_data_w[country][year]["early_bf"]["time_num"]["col_names"][0]
 
@@ -224,14 +202,15 @@ def create_early_bf(df, country, year):
     df[var_time_num] = pd.to_numeric(df[var_time_num], errors="coerce")
 
     # :: VALUES
+    ever_bf_values = config_data_w[country][year]["early_bf"]["ever_bf"]["values"][0]
     time_cat_immediately_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][0]
-    time_cat_hours_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][1]
-    time_cat_minute_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][2]
+    time_cat_minutes_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][1]
+    time_cat_hours_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][2]
+    time_cat_days_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][3]
 
     # Create indicator
-    df["early_bf"] = np.where((df[var_time_cat] == time_cat_immediately_values) | \
-         ((df[var_time_cat] == time_cat_hours_values) & (df[var_time_num] < 1)) | \
-            ((df[var_time_cat] == time_cat_minute_values) & (df[var_time_num] < 60)), 100, 0)
+    df["early_bf"] = np.where(df[var_time_cat] == time_cat_immediately_values, 100, 0)
+    df["early_bf"] = np.where(df[var_ever_bf].ne(ever_bf_values), np.nan, df["early_bf"])
 
     return df
 
@@ -251,7 +230,7 @@ def create_low_bw(df, country, year):
     ## Cast str values to float
     df[var_birth_weight] = pd.to_numeric(df[var_birth_weight], errors="coerce")
 
-    # If 2000, divide bw by 1000 (convert g to kg)
+    # Convert to g to KG
     df = convert_bw_g_to_kg(df, country, year)
 
     # Create bw_less_25 variable
@@ -351,7 +330,7 @@ def update_early_bf_variables(df, country, year):
     """
     Function to update early bf variables to work with function above
     """
-    if year == '2006':
+    if country == 'VNM' and year == '2006':
 
         # :: COL_NAMES
         var_time_cat = config_data_w[country][year]["early_bf"]["time_cat"]["col_names"][0]
@@ -364,13 +343,31 @@ def update_early_bf_variables(df, country, year):
 
     return df
 
+def update_no_response(df, country, year):
+    """
+    Function to clean out NO RESPONSE instances    
+    """
+    if country == 'LAO' and year == '2017':
 
+        # :: COL_NAMES
+        var_caesarean_del = config_data_w[country][year]["caesarean_del"]["col_names"][0]
+        var_after_birth_location = config_data_w[country][year]["pnc_mother"]["sub_indicators"]["health_check_after_birth"]["col_names"]
+        var_pnc_health_provider = config_data_w[country][year]["pnc_mother"]["sub_indicators"]["pnc_2_days"]["pnc_health_provider"]["col_names"]
+
+        df[var_caesarean_del] = np.where(df[var_caesarean_del] == "NO RESPONSE", np.nan, df[var_caesarean_del])
+        df[var_after_birth_location] = np.where(df[var_after_birth_location] == "NO RESPONSE", np.nan, df[var_after_birth_location])
+        df[var_pnc_health_provider] = np.where(df[var_pnc_health_provider] == "NO RESPONSE", np.nan, df[var_pnc_health_provider])
+
+    else:
+        pass
+
+    return df
 
 def convert_bw_g_to_kg(df, country, year):
     """
     Function to update early bf variables to work with function above
     """
-    if year == '2000':
+    if country == 'VNM' and year == '2000':
 
         # :: COL_NAMES
         var_birth_weight = config_data_w[country][year]["low_bw"]["birth_weight"]["col_names"][0]
@@ -397,7 +394,7 @@ def mother_edu_none_to_null(df, country, year, recode):
 
     var_mother_edu = config_data[country][year]["mother_edu"]["col_names"][0]
 
-    if year == '2000':
+    if year == '2000' and recode == 'VNM':
         df[var_mother_edu] = np.where(df[var_mother_edu] == 'None', np.nan, df[var_mother_edu])
 
     else:
