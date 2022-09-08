@@ -270,6 +270,29 @@ def calc_low_bw_props(df, agg_value_col):
 
     return agg_value_prop_dict
 
+def create_woman_anaemia(df, country, year):
+    """
+    Function to create anaemia estimate for woman
+    """
+    pass
+
+def create_iron_supp(df, country, year):
+    """
+    Function to create Iron Supplementation [iron_supp]
+    """
+    # :: COL_NAMES
+    var_iron_supp = config_data_w[country][year]["iron_supp"]["col_names"][0]
+
+      # :: VALUES
+    iron_supp_values = config_data_w[country][year]["iron_supp"]["values"][0]
+
+
+    # Create indicator
+    df["iron_supp"] = np.where(df[var_iron_supp] == iron_supp_values, 100, 0)
+
+    return df
+
+
 
 
 def create_mother_edu(df, country, year, recode):

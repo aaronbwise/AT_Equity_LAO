@@ -544,8 +544,8 @@
       },
       "early_bf": {
         "ever_bf": {
-            "col_names": ["MN36"],
-            "values": ["YES"]
+          "col_names": ["MN36"],
+          "values": ["YES"]
         },
         "time_cat": {
           "col_names": ["MN37U"],
@@ -559,6 +559,10 @@
             "DK / DONT REMEMBER": "99.0"
           }
         }
+      },
+      "iron_supp": {
+        "col_names": ["MN14C"],
+        "values": ["YES"]
       },
       "mother_edu": {
         "col_names": ["WB6A"],
