@@ -251,7 +251,7 @@ def save_merge(df, country, year, recode):
     df.to_csv(file_path, index=False)
     
 
-def export_analyzed_data(df, country, year, recode):
+def export_analyzed_data(df, country, year, recode, anaemia=False):
     """
     Function to export analyzed data working file
     """
@@ -274,8 +274,12 @@ def export_analyzed_data(df, country, year, recode):
         pass
 
     # Generate out_filepath
-    out_file = country + "_" + recode + "_" + year + '_working' + '.csv'
-    out_filepath = working_path.joinpath(out_file)
+    if anaemia == True:
+        out_file = country + "_" + recode + "_anaemia_" + year + '_working' + '.csv'
+        out_filepath = working_path.joinpath(out_file)
+    else:
+        out_file = country + "_" + recode + "_" + year + '_working' + '.csv'
+        out_filepath = working_path.joinpath(out_file)
 
     # Save as csv
     out_df.to_csv(out_filepath, index=False)

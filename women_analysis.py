@@ -86,9 +86,7 @@ def create_anc_3_components(df, country, year):
     anc_3_comp_values = config_data_w[country][year]["anc_3_components"]["values"]
 
     # Create indicator
-    df["anc_3_components"] = np.where(
-        df[var_anc_3_comp_cols].isin(anc_3_comp_values).all(axis=1), 100, 0
-    )
+    df["anc_3_components"] = np.where(df[var_anc_3_comp_cols].isin(anc_3_comp_values).all(axis=1), 100, 0)
 
     return df
 
@@ -104,9 +102,7 @@ def create_inst_delivery(df, country, year):
     inst_delivery_values = config_data_w[country][year]["inst_delivery"]["values"]
 
     # -- Create indicator
-    df["inst_delivery"] = np.where(
-        df[var_inst_delivery].isin(inst_delivery_values), 100, 0
-    )
+    df["inst_delivery"] = np.where(df[var_inst_delivery].isin(inst_delivery_values), 100, 0)
 
     return df
 
@@ -270,11 +266,7 @@ def calc_low_bw_props(df, agg_value_col):
 
     return agg_value_prop_dict
 
-def create_woman_anaemia(df, country, year):
-    """
-    Function to create anaemia estimate for woman
-    """
-    pass
+
 
 def create_iron_supp(df, country, year):
     """
@@ -294,12 +286,48 @@ def create_iron_supp(df, country, year):
 
 
 
+def create_woman_anaemia(df, country, year):
+    """
+    Function to create anaemia estimate for woman
+    """
+    # :: COL_NAMES
+    var_pregnant = config_data_w[country][year]["wm_anaemia"]["pregnant"]["col_names"][0]
+    var_consent = config_data_w[country][year]["wm_anaemia"]["consent"]["col_names"][0]
+    var_haem_num = config_data_w[country][year]["wm_anaemia"]["haem_num"]["col_names"][0]
+
+      # :: VALUES
+    pregnant_values_y = config_data_w[country][year]["wm_anaemia"]["pregnant"]["pregnant_values"][0]
+    pregnant_values_n = config_data_w[country][year]["wm_anaemia"]["pregnant"]["pregnant_values"][1]
+    pregnant_values = config_data_w[country][year]["wm_anaemia"]["pregnant"]["pregnant_values"]
+
+    consent_values = config_data_w[country][year]["wm_anaemia"]["consent"]["consent_values"][0]
+
+    df['mask'] = np.where((df[var_pregnant].isin(pregnant_values)) & (df[var_consent].eq(consent_values)), 1, 0)
+
+    ## Cast categorical values with str
+    df[var_haem_num] = df[var_haem_num].astype(str)
+
+    ## Cast str values to float
+    df[var_haem_num] = pd.to_numeric(df[var_haem_num], errors="coerce")
+
+    # Create indicator
+    df["wm_anaemia_preg"] = np.where((df[var_pregnant].eq(pregnant_values_y)) & (df[var_haem_num] < 11.0) & (df[var_consent].eq(consent_values)), 100, 0)
+    df["wm_anaemia_non_preg"] = np.where((df[var_pregnant].eq(pregnant_values_n)) & (df[var_haem_num] < 12.0) & (df[var_consent].eq(consent_values)), 100, 0)
+
+    wm_anaemia_cols = ["wm_anaemia_preg", "wm_anaemia_non_preg"]
+
+    df["wm_anaemia"] = np.where(df[wm_anaemia_cols].eq(100).any(axis = 1), 100, 0)
+    df["wm_anaemia"] = np.where(df['mask'].ne(1), np.nan, df['wm_anaemia'])
+
+    df.drop(columns=['mask'])
+
+    return df
+
 
 def create_mother_edu(df, country, year, recode):
     """
     Function to create Mother education [mother_edu]
     """
-    
     # :: COL_NAMES
     if recode == 'children':
         config_data = config_data_c
@@ -366,6 +394,8 @@ def update_early_bf_variables(df, country, year):
 
     return df
 
+
+
 def update_no_response(df, country, year):
     """
     Function to clean out NO RESPONSE instances    
@@ -385,6 +415,8 @@ def update_no_response(df, country, year):
         pass
 
     return df
+
+
 
 def convert_bw_g_to_kg(df, country, year):
     """

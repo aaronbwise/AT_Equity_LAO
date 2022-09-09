@@ -564,6 +564,21 @@
         "col_names": ["MN14C"],
         "values": ["YES"]
       },
+      "wm_anaemia": {
+        "pregnant": {
+          "col_names": ["CP1"],
+          "pregnant_values": ["YES, CURRENTLY PREGNANT", "NO"],
+          "missing_values": ["DK OR NOT SURE", "NO RESPONSE"]
+        },
+        "consent": {
+          "col_names": ["ATW12"],
+          "consent_values": ["GRANTED"],
+          "no_consent_values": ["REFUSED", "NOT PRESENT / OTHER"]
+        },
+        "haem_num": {
+          "col_names": ["ATW14"]
+        }
+      },
       "mother_edu": {
         "col_names": ["WB6A"],
         "values": {
