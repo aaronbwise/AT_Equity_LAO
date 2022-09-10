@@ -62,7 +62,7 @@ def generate_HHID(df, country, year, recode):
     """
     
     # Update variables for consistency between years
-    df = update_hhid_variables(df, year)
+    df = update_hhid_variables(df, country, year)
 
     # -- Create unique HHID -- #
     id1 = config_data["survey_dict"][country][year][recode]["cluster_id"]
@@ -90,42 +90,42 @@ def create_HHID(id1, id2):
     return id1 + id2
 
 
-def generate_MEMID(df, country, year, recode):
-    """
-    Function takes a dataframe to generate unique MEMID to
-    facilitate merging data between recodes.
-    """
+# def generate_MEMID(df, country, year, recode):
+#     """
+#     Function takes a dataframe to generate unique MEMID to
+#     facilitate merging data between recodes.
+#     """
     
-    # -- Create unique MEMID -- #
-    memid = config_data["survey_dict"][country][year][recode]["mem_id"]
+#     # -- Create unique MEMID -- #
+#     memid = config_data["survey_dict"][country][year][recode]["mem_id"]
 
-    df[memid] = df[memid].apply(lambda x: str(x).strip().replace(".", "-").replace("-0", "").zfill(3))
+#     df[memid] = df[memid].apply(lambda x: str(x).strip().replace(".", "-").replace("-0", "").zfill(3))
 
-    df["MEMID"] = df["HHID"] + df[memid]
+#     df["MEMID"] = df["HHID"] + df[memid]
 
-    if df["MEMID"].nunique() == df.shape[0]:
-        print("MEMID is unique")
-    else:
-        print("MEMID is NOT unique")
+#     if df["MEMID"].nunique() == df.shape[0]:
+#         print("MEMID is unique")
+#     else:
+#         print("MEMID is NOT unique")
 
 
-def subset_edu_save(df, country, year, recode):
-    """
-    Function to extract MEMID and Education column from HL file
-    """
-    temp = df
-    # :: COL_NAMES
-    var_edu = config_data["survey_dict"][country][year][recode]["edu"]["col_name"]
+# def subset_edu_save(df, country, year, recode):
+#     """
+#     Function to extract MEMID and Education column from HL file
+#     """
+#     temp = df
+#     # :: COL_NAMES
+#     var_edu = config_data["survey_dict"][country][year][recode]["edu"]["col_name"]
 
-    keep_cols = ['MEMID'] + var_edu
+#     keep_cols = ['MEMID'] + var_edu
 
-    temp = temp[keep_cols]
+#     temp = temp[keep_cols]
 
-    out_fn = country + "_" + year + "_" + recode + "_merge" + "_education" + ".csv"
+#     out_fn = country + "_" + year + "_" + recode + "_merge" + "_education" + ".csv"
 
-    file_path = Path.cwd() / "data" / year / "merge" / out_fn
+#     file_path = Path.cwd() / "data" / year / "merge" / out_fn
 
-    temp.to_csv(file_path, index=False)
+#     temp.to_csv(file_path, index=False)
 
 
 
@@ -277,6 +277,7 @@ def export_analyzed_data(df, country, year, recode, anaemia=False):
     if anaemia == True:
         out_file = country + "_" + recode + "_anaemia_" + year + '_working' + '.csv'
         out_filepath = working_path.joinpath(out_file)
+        
     else:
         out_file = country + "_" + recode + "_" + year + '_working' + '.csv'
         out_filepath = working_path.joinpath(out_file)
@@ -288,11 +289,11 @@ def export_analyzed_data(df, country, year, recode, anaemia=False):
 
 ## --- Helper functions to fix differences between surveys and survey years
 
-def update_hhid_variables(df, year):
+def update_hhid_variables(df, country, year):
     """
-    Function to update early bf variables to work with function above
+    Function to ...
     """
-    if year == '2000':
+    if country == 'VNM' and year == '2000':
 
         df["cluster_id"] = ""
 

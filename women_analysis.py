@@ -154,8 +154,8 @@ def create_pnc_mother(df, country, year):
     df[var_time_num] = df[var_time_num].astype(str)
 
     ## Replace str value with values
-    str_replace_dict = generate_str_replace_dict(country, year, "pnc_mother")
-    df = df.replace(str_replace_dict)
+    # str_replace_dict = generate_str_replace_dict(country, year, "pnc_mother")
+    # df = df.replace(str_replace_dict)
 
     ## Cast str values to float
     df[var_time_num] = pd.to_numeric(df[var_time_num], errors="coerce")
@@ -163,6 +163,7 @@ def create_pnc_mother(df, country, year):
     # :: VALUES
     time_cat_days_values = config_data_w[country][year]["pnc_mother"]["sub_indicators"]["pnc_2_days"]["time_cat"]["values"][0]
     time_cat_hours_values = config_data_w[country][year]["pnc_mother"]["sub_indicators"]["pnc_2_days"]["time_cat"]["values"][1]
+    time_cat_values = config_data_w[country][year]["pnc_mother"]["sub_indicators"]["pnc_2_days"]["time_cat"]["values"]
 
     ## Create sub-indicator
     df["pnc_2_days"] = np.where(((df[var_time_cat] == time_cat_hours_values) | ((df[var_time_cat] == time_cat_days_values) & (df[var_time_num] <= 2))), 100, 0)
@@ -197,16 +198,21 @@ def create_early_bf(df, country, year):
     ## Cast str values to float
     df[var_time_num] = pd.to_numeric(df[var_time_num], errors="coerce")
 
+
     # :: VALUES
     ever_bf_values = config_data_w[country][year]["early_bf"]["ever_bf"]["values"][0]
     time_cat_immediately_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][0]
-    time_cat_minutes_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][1]
-    time_cat_hours_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][2]
-    time_cat_days_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][3]
+    time_cat_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"]
+
+
+    # Create mask to filter
+    df['mask'] = np.where((df[var_ever_bf].eq(ever_bf_values)) & (df[var_time_cat].isin(time_cat_values)), 1, 0)
 
     # Create indicator
     df["early_bf"] = np.where(df[var_time_cat] == time_cat_immediately_values, 100, 0)
-    df["early_bf"] = np.where(df[var_ever_bf].ne(ever_bf_values), np.nan, df["early_bf"])
+    df["early_bf"] = np.where(df['mask'].ne(1), np.nan, df['early_bf'])
+
+    df.drop(columns=['mask'])
 
     return df
 
@@ -406,10 +412,13 @@ def update_no_response(df, country, year):
         var_caesarean_del = config_data_w[country][year]["caesarean_del"]["col_names"][0]
         var_after_birth_location = config_data_w[country][year]["pnc_mother"]["sub_indicators"]["health_check_after_birth"]["col_names"]
         var_pnc_health_provider = config_data_w[country][year]["pnc_mother"]["sub_indicators"]["pnc_2_days"]["pnc_health_provider"]["col_names"]
+        var_time_cat = config_data_w[country][year]["pnc_mother"]["sub_indicators"]["pnc_2_days"]["time_cat"]["col_names"][0]
 
         df[var_caesarean_del] = np.where(df[var_caesarean_del] == "NO RESPONSE", np.nan, df[var_caesarean_del])
         df[var_after_birth_location] = np.where(df[var_after_birth_location] == "NO RESPONSE", np.nan, df[var_after_birth_location])
         df[var_pnc_health_provider] = np.where(df[var_pnc_health_provider] == "NO RESPONSE", np.nan, df[var_pnc_health_provider])
+        df[var_time_cat] = np.where(df[var_time_cat] == "DK / DON'T REMEMBER / NO RESPONSE", np.nan, df[var_time_cat])
+
 
     else:
         pass
