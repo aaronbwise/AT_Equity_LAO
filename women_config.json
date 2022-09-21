@@ -549,15 +549,11 @@
         },
         "time_cat": {
           "col_names": ["MN37U"],
-          "values": ["IMMEDIATELY", "MINUTES", "HOURS", "DAYS", "SPECIAL"]
+          "values": ["IMMEDIATELY", "HOURS", "DAYS"]
         },
         "time_num": {
           "col_names": ["MN37N"],
-          "dtype": "num_categorical",
-          "convert_values": {
-            "IMMEDIATELY": "0.0",
-            "DK / DONT REMEMBER": "99.0"
-          }
+          "dtype": "num_categorical"
         }
       },
       "iron_supp": {
@@ -621,15 +617,12 @@
       "inst_delivery": {
         "col_names": ["MN18"],
         "values": [
-          "Government hospital",
-          "Commune health centre",
-          "Poly clinlic",
+          "Hospital",
+          "Health centre",
+          "Other public",
           "Private hospital",
-          "Private clinic",
-          "Private maternity home",
           "Other private medical",
-          "Sectoral Hospital (Army, Police...)",
-          "Other public"
+          "Private clinic"
         ]
       },
       "caesarean_del": {
@@ -639,20 +632,24 @@
       "pnc_mother": {
         "sub_indicators": {
           "health_check_after_birth": {
-            "col_names": null,
-            "values": null
+            "col_names": ["PN4", "PN8"],
+            "values": ["Yes"]
           },
           "pnc_2_days": {
             "time_cat": {
-              "col_names": null,
-              "values": null
+              "col_names": ["PN21U"],
+              "values": ["Days", "Hours"]
             },
             "time_num": {
-              "col_names": null,
-              "dtype": null,
-              "convert_values": null
+              "col_names": ["PN21N"],
+              "dtype": "num_categorical",
+              "convert_values": {
+                "DK": "99.0"
+              }
             },
-            "pnc_health_provider": null
+            "pnc_health_provider": {
+              "col_names": ["PN22A", "PN22B", "PN22C", "PN22F", "PN22G"]
+            }
           }
         }
       },
@@ -665,6 +662,10 @@
         }
       },
       "early_bf": {
+        "ever_bf": {
+          "col_names": ["MN24"],
+          "values": ["Yes"]
+        },
         "time_cat": {
           "col_names": ["MN25U"],
           "values": ["Immediately", "Hours", "Days", "Special"]
@@ -672,6 +673,25 @@
         "time_num": {
           "col_names": ["MN25N"],
           "dtype": "num_categorical"
+        }
+      },
+      "iron_supp": {
+        "col_names": ["MN11A"],
+        "values": ["Yes", "Missing", "DK"]
+      },
+      "wm_anaemia": {
+        "pregnant": {
+          "col_names": ["CP1"],
+          "pregnant_values": ["YES, CURRENTLY PREGNANT", "NO"],
+          "missing_values": ["DK OR NOT SURE", "NO RESPONSE"]
+        },
+        "consent": {
+          "col_names": ["ATW12"],
+          "consent_values": ["GRANTED"],
+          "no_consent_values": ["REFUSED", "NOT PRESENT / OTHER"]
+        },
+        "haem_num": {
+          "col_names": ["ATW14"]
         }
       },
       "mother_edu": {
@@ -682,9 +702,9 @@
           "secondary": [
             "Lower Secondary",
             "Upper Secondary",
-            "Professional School"
+            "Post secondary non tertiary"
           ],
-          "higher": ["College/University and above"],
+          "higher": ["Tertiary Education"],
           "DK": ["DK"]
         }
       },
@@ -695,7 +715,7 @@
         },
         "values": {
           "quest_complete": ["Completed"],
-          "birth_2_years": ["Yes"]
+          "birth_2_years": ["Yes, last birth in the last 2 years"]
         }
       }
     }

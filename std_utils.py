@@ -90,42 +90,42 @@ def create_HHID(id1, id2):
     return id1 + id2
 
 
-# def generate_MEMID(df, country, year, recode):
-#     """
-#     Function takes a dataframe to generate unique MEMID to
-#     facilitate merging data between recodes.
-#     """
+def generate_MEMID(df, country, year, recode):
+    """
+    Function takes a dataframe to generate unique MEMID to
+    facilitate merging data between recodes.
+    """
     
-#     # -- Create unique MEMID -- #
-#     memid = config_data["survey_dict"][country][year][recode]["mem_id"]
+    # -- Create unique MEMID -- #
+    memid = config_data["survey_dict"][country][year][recode]["mem_id"]
 
-#     df[memid] = df[memid].apply(lambda x: str(x).strip().replace(".", "-").replace("-0", "").zfill(3))
+    df[memid] = df[memid].apply(lambda x: str(x).strip().replace(".", "-").replace("-0", "").zfill(3))
 
-#     df["MEMID"] = df["HHID"] + df[memid]
+    df["MEMID"] = df["HHID"] + df[memid]
 
-#     if df["MEMID"].nunique() == df.shape[0]:
-#         print("MEMID is unique")
-#     else:
-#         print("MEMID is NOT unique")
+    if df["MEMID"].nunique() == df.shape[0]:
+        print("MEMID is unique")
+    else:
+        print("MEMID is NOT unique")
 
 
-# def subset_edu_save(df, country, year, recode):
-#     """
-#     Function to extract MEMID and Education column from HL file
-#     """
-#     temp = df
-#     # :: COL_NAMES
-#     var_edu = config_data["survey_dict"][country][year][recode]["edu"]["col_name"]
+def subset_edu_save(df, country, year, recode):
+    """
+    Function to extract MEMID and Education column from HL file
+    """
+    temp = df
+    # :: COL_NAMES
+    var_edu = config_data["survey_dict"][country][year][recode]["edu"]["col_name"]
 
-#     keep_cols = ['MEMID'] + var_edu
+    keep_cols = ['MEMID'] + var_edu
 
-#     temp = temp[keep_cols]
+    temp = temp[keep_cols]
 
-#     out_fn = country + "_" + year + "_" + recode + "_merge" + "_education" + ".csv"
+    out_fn = country + "_" + year + "_" + recode + "_merge" + "_education" + ".csv"
 
-#     file_path = Path.cwd() / "data" / year / "merge" / out_fn
+    file_path = Path.cwd() / "data" / year / "merge" / out_fn
 
-#     temp.to_csv(file_path, index=False)
+    temp.to_csv(file_path, index=False)
 
 
 
@@ -171,7 +171,7 @@ def subset_hl_df(df, country, year, recode, var_subset):
     Function which subsets the dataframe on variable of interest.
     """
 
-    df = update_hl_variables(df, year)
+    df = update_hl_variables(df, country, year)
 
     subset_col_name = config_data["survey_dict"][country][year][recode][var_subset]["col_name"]
 
@@ -293,7 +293,7 @@ def update_hhid_variables(df, country, year):
     """
     Function to ...
     """
-    if country == 'VNM' and year == '2000':
+    if year == '2000':
 
         df["cluster_id"] = ""
 
@@ -302,9 +302,11 @@ def update_hhid_variables(df, country, year):
 
     return df
 
-def update_hl_variables(df, year):
-    
-    if year == '2000':
+def update_hl_variables(df, country, year):
+    """
+    Function to ...
+    """
+    if country == "VNM" and year == '2000':
         
         df["relationship_hoh"] = np.where(df['HL1'] == 1, 'Head', "Other")
     

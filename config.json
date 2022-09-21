@@ -604,9 +604,9 @@
             },
             "replace": {
               "Poorest": "Poorest",
-              "Poor": "Poor",
+              "Second": "Poor",
               "Middle": "Middle",
-              "Rich": "Rich",
+              "Fourth": "Rich",
               "Richest": "Richest"
             }
           },
@@ -747,16 +747,15 @@
                 "Khammuane": "Central",
                 "Luangnamtha": "North",
                 "Luangprabang": "North",
-                "OUDOMXAY": "North",
-                "PHONGSALY": "North",
-                "SARAVANE": "South",
+                "Oudomxay": "North",
+                "Phongsaly": "North",
+                "Saravane": "South",
                 "Savannakhet": "Central",
-                "SEKONG": "South",
-                "VIENTIANE": "Central",
-                "VIENTIANE CAPITAL": "Central",
-                "XAYABURY": "North",
-                "XAYSOMBOUNE": "Central",
-                "XIENGKHUANG": "Central"
+                "Sekong": "South",
+                "Vientiane": "Central",
+                "Vientiane Capital": "Central",
+                "Xayabury": "North",
+                "Xiengkhuang": "Central"
               }
           },
           "wealth": {
@@ -773,22 +772,11 @@
             }
           },
           "eth_hoh": {
-            "col_name": "HC1C",
+            "col_name": "lang",
             "rename": {
-              "HC1C": "eth_hoh"
+              "lang": "eth_hoh"
             },
-            "replace": {
-              "Kinh": "Kinh and Hoa",
-              "Other ethnic group": "Other/Missing",
-              "Tay": "Tay, Thai, Muong, Nung",
-              "NaN": "Other/Missing",
-              "Nung": "Tay, Thai, Muong, Nung",
-              "Thai": "Tay, Thai, Muong, Nung",
-              "Khmer": "Khmer",
-              "Chinese": "Kinh and Hoa",
-              "Hmong": "Mong",
-              "Muong": "Tay, Thai, Muong, Nung"
-            }
+            "replace": null
           }
         },
         "listing": {
@@ -834,6 +822,226 @@
           "filename": {
             "hh": "LAO_2012_household_merge.csv",
             "hl": "LAO_2012_listing_merge.csv"
+          }
+        }
+      },
+      "2006": {
+        "household": {
+          "filename": "hh_2006.sav",
+          "cluster_id": "HH1",
+          "household_id": "HH2",
+          "residence": {
+            "col_name": "HH6",
+            "rename": {
+              "HH6": "residence"
+            },
+            "replace": {
+              "Urban": "Urban",
+              "Rural with road": "Rural",
+              "Rural without road": "Rural"
+            }
+          },
+          "region": {
+            "col_name": "HH7",
+            "rename": {
+              "HH7": "region"
+            },
+            "replace": {
+                "South": "South",
+                "North": "North",
+                "Centre": "Central"
+              }
+          },
+          "wealth": {
+            "col_name": "wlthind5",
+            "rename": {
+              "wlthind5": "wealth_q"
+            },
+            "replace": {
+              "Poorest": "Poorest",
+              "Second": "Poor",
+              "Middle": "Middle",
+              "Fourth": "Rich",
+              "Richest": "Richest"
+            }
+          },
+          "eth_hoh": {
+            "col_name": "HC1C",
+            "rename": {
+              "ethnic": "eth_hoh"
+            },
+            "replace": {
+              "Kinh": "Kinh and Hoa",
+              "Muong": "Tay, Thai, Muong, Nung",
+              "Thai": "Tay, Thai, Muong, Nung",
+              "Tay": "Tay, Thai, Muong, Nung",
+              "H Mong": "Mong",
+              "Nung": "Tay, Thai, Muong, Nung",
+              "Dao": "Other/Missing",
+              "Gia-Rai": "Other/Missing",
+              "Hoa": "Kinh and Hoa",
+              "BaNa": "Other/Missing",
+              "Kho Me": "Other/Missing",
+              "Cham": "Other/Missing",
+              "Hre": "Other/Missing",
+              "Xo Dang": "Other/Missing",
+              "Ede": "Other/Missing",
+              "Khang": "Other/Missing",
+              "Bru": "Other/Missing",
+              "Ma": "Other/Missing",
+              "San Chay": "Other/Missing",
+              "San Diu": "Other/Missing",
+              "MNong": "Other/Missing"
+            }
+          }
+        },
+        "listing": {
+          "filename": "hl_2006.sav",
+          "cluster_id": "hh1",
+          "household_id": "hh2",
+          "mem_id": "hl1",
+          "relationship_hoh": {
+            "col_name": "hl3",
+            "value": "Head"
+          },
+          "sex_hoh": {
+            "col_name": "hl4",
+            "rename": {
+              "hl4": "sex_hoh"
+            },
+            "replace": null
+          },
+          "elderly_hoh": {
+            "col_name": "hl5",
+            "rename": {
+              "hl5": "elderly_hoh"
+            },
+            "replace": null
+          },
+          "edu": {
+            "col_name": ["ed3a"]
+          }
+        },
+        "women": {
+          "filename": "wm_2006.sav",
+          "cluster_id": "hh1",
+          "household_id": "hh2",
+          "weight": ["wmweight"]
+        },
+        "children": {
+          "filename": "ch_2006.sav",
+          "cluster_id": "hh1",
+          "household_id": "hh2",
+          "weight": ["chweight"]
+        },
+        "merge": {
+          "filename": {
+            "hh": "LAO_2006_household_merge.csv",
+            "hl": "LAO_2006_listing_merge.csv"
+          }
+        }
+      },
+      "2000": {
+        "household": {
+          "filename": "hh_2000.sav",
+          "cluster_id": "cluster_id",
+          "household_id": "HID",
+          "residence": {
+            "col_name": "HI6",
+            "rename": {
+              "HI6": "residence"
+            },
+            "replace": {
+              "Urban": "Urban",
+              "Rural": "Rural"
+            }
+          },
+          "region": {
+            "col_name": "HI7",
+            "rename": {
+                "HH7": "region"
+              },
+              "replace": {
+                  "South": "South",
+                  "North": "North",
+                  "Central": "Central"
+                }
+            },
+          "wealth": {
+            "col_name": "WLTHIND5",
+            "rename": {
+              "WLTHIND5": "wealth_q"
+            },
+            "replace": {
+              "Poorest": "Poorest",
+              "Second": "Poor",
+              "Middle": "Middle",
+              "Fourth": "Rich",
+              "Richest": "Richest"
+            }
+          },
+          "eth_hoh": {
+            "col_name": "MHI1",
+            "rename": {
+              "MHI1": "eth_hoh"
+            },
+            "replace": {
+              "Kinh": "Kinh and Hoa",
+              "Muong": "Tay, Thai, Muong, Nung",
+              "Thai": "Tay, Thai, Muong, Nung",
+              "Khac": "Other/Missing",
+              "H'mong": "Mong",
+              "Tay": "Tay, Thai, Muong, Nung",
+              "Nung": "Tay, Thai, Muong, Nung",
+              "Dao": "Other/Missing",
+              "Hoa": "Kinh and Hoa",
+              "Kho me": "Other/Missing"
+            }
+          }
+        },
+        "listing": {
+          "filename": "hl_2000.sav",
+          "cluster_id": "cluster_id",
+          "household_id": "HID",
+          "mem_id": "HL1",
+          "relationship_hoh": {
+            "col_name": "relationship_hoh",
+            "value": "Head"
+          },
+          "sex_hoh": {
+            "col_name": "HL3",
+            "rename": {
+              "HL3": "sex_hoh"
+            },
+            "replace": null
+          },
+          "elderly_hoh": {
+            "col_name": "HL4",
+            "rename": {
+              "HL4": "elderly_hoh"
+            },
+            "replace": null
+          },
+          "edu": {
+            "col_name": ["ED16A"]
+          }
+        },
+        "women": {
+          "filename": "wm_2000.sav",
+          "cluster_id": "cluster_id",
+          "household_id": "HID",
+          "weight": ["WMWEIGHT"]
+        },
+        "children": {
+          "filename": "ch_2000.sav",
+          "cluster_id": "cluster_id",
+          "household_id": "HID",
+          "weight": ["CHWEIGHT"]
+        },
+        "merge": {
+          "filename": {
+            "hh": "VNM_2000_household_merge.csv",
+            "hl": "VNM_2000_listing_merge.csv"
           }
         }
       }

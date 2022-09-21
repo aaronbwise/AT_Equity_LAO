@@ -153,10 +153,6 @@ def create_pnc_mother(df, country, year):
     ## Cast categorical values with str
     df[var_time_num] = df[var_time_num].astype(str)
 
-    ## Replace str value with values
-    # str_replace_dict = generate_str_replace_dict(country, year, "pnc_mother")
-    # df = df.replace(str_replace_dict)
-
     ## Cast str values to float
     df[var_time_num] = pd.to_numeric(df[var_time_num], errors="coerce")
 
@@ -188,7 +184,7 @@ def create_early_bf(df, country, year):
     df = update_early_bf_variables(df, country, year)
 
     # :: COL_NAMES
-    var_ever_bf = config_data_w[country][year]["early_bf"]["ever_bf"]["col_names"][0]
+    # var_ever_bf = config_data_w[country][year]["early_bf"]["ever_bf"]["col_names"][0]
     var_time_cat = config_data_w[country][year]["early_bf"]["time_cat"]["col_names"][0]
     var_time_num = config_data_w[country][year]["early_bf"]["time_num"]["col_names"][0]
 
@@ -200,19 +196,20 @@ def create_early_bf(df, country, year):
 
 
     # :: VALUES
-    ever_bf_values = config_data_w[country][year]["early_bf"]["ever_bf"]["values"][0]
+    # ever_bf_values = config_data_w[country][year]["early_bf"]["ever_bf"]["values"][0]
     time_cat_immediately_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][0]
-    time_cat_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"]
+    time_cat_hours_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"][1]
+    # time_cat_values = config_data_w[country][year]["early_bf"]["time_cat"]["values"]
 
 
-    # Create mask to filter
-    df['mask'] = np.where((df[var_ever_bf].eq(ever_bf_values)) & (df[var_time_cat].isin(time_cat_values)), 1, 0)
+    # # Create mask to filter
+    # df['mask'] = np.where((df[var_ever_bf].eq(ever_bf_values)) & (df[var_time_cat].isin(time_cat_values)), 1, 0)
 
     # Create indicator
-    df["early_bf"] = np.where(df[var_time_cat] == time_cat_immediately_values, 100, 0)
-    df["early_bf"] = np.where(df['mask'].ne(1), np.nan, df['early_bf'])
+    df["early_bf"] = np.where((df[var_time_cat] == time_cat_immediately_values) | ((df[var_time_cat] == time_cat_hours_values) & (df[var_time_num] < 1)), 100, 0)
+    # df["early_bf"] = np.where(df['mask'].ne(1), np.nan, df['early_bf'])
 
-    df.drop(columns=['mask'])
+    # df.drop(columns=['mask'])
 
     return df
 
@@ -283,10 +280,12 @@ def create_iron_supp(df, country, year):
 
       # :: VALUES
     iron_supp_values = config_data_w[country][year]["iron_supp"]["values"][0]
+    # iron_supp_miss_values = config_data_w[country][year]["iron_supp"]["values"][1:]
 
 
     # Create indicator
     df["iron_supp"] = np.where(df[var_iron_supp] == iron_supp_values, 100, 0)
+    # df.loc[df[var_iron_supp].isin(iron_supp_miss_values), 'iron_supp'] = np.nan
 
     return df
 
