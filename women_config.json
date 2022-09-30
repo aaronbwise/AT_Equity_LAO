@@ -729,20 +729,16 @@
           }
         },
         "anc_3_components": {
-          "col_names": ["mn3b", "mn3c", "mn3d"],
+          "col_names": ["MN3B", "MN3C", "MN3D"],
           "values": ["Yes"]
         },
         "inst_delivery": {
-          "col_names": ["mn8"],
+          "col_names": ["MN8"],
           "values": [
             "Government hospital",
-            "Comm./Office Health clinic",
             "Government clinic/health center",
-            "Private hospital",
-            "Private maternity home",
             "Private clinic",
-            "Gov. maternity home",
-            "Other private medical"
+            "Private maternity home"
           ]
         },
         "caesarean_del": {
@@ -771,19 +767,19 @@
         },
         "low_bw": {
           "birth_size": {
-            "col_names": ["mn9"]
+            "col_names": ["MN9"]
           },
           "birth_weight": {
-            "col_names": ["mn11"]
+            "col_names": ["MN11"]
           }
         },
         "early_bf": {
           "time_cat": {
-            "col_names": ["mn13a"],
+            "col_names": ["MN13U"],
             "values": ["Immediately", "Hours", "Minute", "Days"]
           },
           "time_num": {
-            "col_names": ["mn13"],
+            "col_names": ["MN13N"],
             "dtype": "num_categorical"
           }
         },

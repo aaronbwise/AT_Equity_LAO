@@ -572,30 +572,11 @@
             }
           },
           "region": {
-            "col_name": "HH7",
+            "col_name": "hh7r",
             "rename": {
               "HH7": "region"
             },
-            "replace": {
-              "ATTAPEU": "South",
-              "BOKEO": "North",
-              "BORIKHAMXAY": "Central",
-              "CHAMPASACK": "South",
-              "HUAPHANH": "North",
-              "KHAMMUA": "Central",
-              "LUANGNAMTHA": "North",
-              "LUANGPRABANG": "North",
-              "OUDOMXAY": "North",
-              "PHONGSALY": "North",
-              "SARAVANE": "South",
-              "SAVANNAKHET": "Central",
-              "SEKONG": "South",
-              "VIENTIANE": "Central",
-              "VIENTIANE CAPITAL": "Central",
-              "XAYABURY": "North",
-              "XAYSOMBOUNE": "Central",
-              "XIENGKHUANG": "Central"
-            }
+            "replace": null
           },
           "wealth": {
             "col_name": "windex5",
@@ -611,61 +592,11 @@
             }
           },
           "eth_hoh": {
-            "col_name": "HC2",
+            "col_name": "ethnicity",
             "rename": {
-              "HC2": "eth_hoh"
+              "ethnicity": "eth_hoh"
             },
-            "replace": {
-              "AKHA": "Chinese-Tibetan",
-              "BID": "Mon-Khmer",
-              "BRAO": "Mon-Khmer",
-              "CHENG": "Mon-Khmer",
-              "EWMIEN": "Hmong-Mien",
-              "HARAK": "Mon-Khmer",
-              "HAYI": "Chinese-Tibetan",
-              "HMONG": "Hmong-Mien",
-              "HOR": "Chinese-Tibetan",
-              "KATANG": "Mon-Khmer",
-              "KATU": "Mon-Khmer",
-              "KHMER": "Mon-Khmer",
-              "KHMOU": "Mon-Khmer",
-              "KREE": "Mon-Khmer",
-              "KRIANG": "Mon-Khmer",
-              "LAHOU": "Chinese-Tibetan",
-              "LAMED": "Mon-Khmer",
-              "LAO": "Lao-Tai",
-              "LAVY": "Mon-Khmer",
-              "LOLO": "Chinese-Tibetan",
-              "LUE": "Lao-Tai",
-              "MAKONG": "Mon-Khmer",
-              "NGOUAN": "Mon-Khmer",
-              "NHAHEUN": "Mon-Khmer",
-              "NHOAUN": "Lao-Tai",
-              "NO RESPONE": "Other, DK, Missing",
-              "OEDOU": "Mon-Khmer",
-              "OTHER": "Other, DK, Missing",
-              "OY": "Mon-Khmer",
-              "PACOH": "Mon-Khmer",
-              "PHONG": "Mon-Khmer",
-              "PHOUTHAY": "Lao-Tai",
-              "POUNOY": "Chinese-Tibetan",
-              "PRAY": "Mon-Khmer",
-              "SAMTAO": "Mon-Khmer",
-              "SYLA": "Chinese-Tibetan",
-              "TA-OY": "Mon-Khmer",
-              "THAEN": "Mon-Khmer",
-              "THAI": "Lao-Tai",
-              "THAINEAU": "Lao-Tai",
-              "TRI": "Mon-Khmer",
-              "TRIENG": "Mon-Khmer",
-              "XAEK": "Lao-Tai",
-              "XINGMOUN": "Mon-Khmer",
-              "XUAY": "Mon-Khmer",
-              "YAE": "Mon-Khmer",
-              "YANG": "Lao-Tai",
-              "YROU": "Mon-Khmer",
-              "NaN": "Other, DK, Missing"
-            }
+            "replace": null
           }
         },
         "listing": {
@@ -734,29 +665,11 @@
             }
           },
           "region": {
-            "col_name": "HH7",
+            "col_name": "HH7R",
             "rename": {
               "HH7": "region"
             },
-            "replace": {
-                "Attapeu": "South",
-                "Bokeo": "North",
-                "Borikhamxay": "Central",
-                "Champasack": "South",
-                "Huaphanh": "North",
-                "Khammuane": "Central",
-                "Luangnamtha": "North",
-                "Luangprabang": "North",
-                "Oudomxay": "North",
-                "Phongsaly": "North",
-                "Saravane": "South",
-                "Savannakhet": "Central",
-                "Sekong": "South",
-                "Vientiane": "Central",
-                "Vientiane Capital": "Central",
-                "Xayabury": "North",
-                "Xiengkhuang": "Central"
-              }
+            "replace": null
           },
           "wealth": {
             "col_name": "windex5",
@@ -772,11 +685,59 @@
             }
           },
           "eth_hoh": {
-            "col_name": "lang",
+            "col_name": "HC1C",
             "rename": {
-              "lang": "eth_hoh"
+              "HC1C": "eth_hoh"
             },
-            "replace": null
+            "replace": {
+              "Adoo": "Mon-Khmer",
+              "Akha": "Chinese-Tibetan",
+              "Brao": "Mon-Khmer",
+              "Cheng": "Mon-Khmer",
+              "Grieng": "Mon-Khmer",
+              "Guan": "Lao-Tai",
+              "Hahak": "Mon-Khmer",
+              "Hayee": "Chinese-Tibetan",
+              "Hor": "Chinese-Tibetan",
+              "Ilmeam": "Hmong-Mien",
+              "Katang": "Mon-Khmer",
+              "Katu": "Mon-Khmer",
+              "Keummeu": "Mon-Khmer",
+              "Kree": "Mon-Khmer",
+              "Lahoo": "Chinese-Tibetan",
+              "Lamed": "Mon-Khmer",
+              "Lao": "Lao-Tai",
+              "Lavy": "Mon-Khmer",
+              "Leu": "Lao-Tai",
+              "Lolo": "Chinese-Tibetan",
+              "Makong": "Mon-Khmer",
+              "Missing": "Other, DK, Missing",
+              "Mong": "Hmong-Mien",
+              "Moy": "Mon-Khmer",
+              "Ngahearn": "Mon-Khmer",
+              "Nguan": "Mon-Khmer",
+              "Other": "Other, DK, Missing",
+              "Oy": "Mon-Khmer",
+              "Pako": "Mon-Khmer",
+              "Phong": "Mon-Khmer",
+              "Phouthai": "Lao-Tai",
+              "Prai": "Mon-Khmer",
+              "Sairk": "Lao-Tai",
+              "Samtao": "Mon-Khmer",
+              "Shuay": "Mon-Khmer",
+              "Sila": "Chinese-Tibetan",
+              "Singmoon": "Mon-Khmer",
+              "Singsiri": "Other, DK, Missing",
+              "Tai": "Lao-Tai",
+              "Taoy": "Mon-Khmer",
+              "Thaineau": "Lao-Tai",
+              "Thein": "Mon-Khmer",
+              "Treang": "Mon-Khmer",
+              "Tri": "Mon-Khmer",
+              "Yerh": "Other, DK, Missing",
+              "Yung": "Lao-Tai",
+              "Yuroo": "Mon-Khmer"
+            }
           }
         },
         "listing": {
@@ -847,10 +808,10 @@
               "HH7": "region"
             },
             "replace": {
-                "South": "South",
-                "North": "North",
-                "Centre": "Central"
-              }
+              "South": "South",
+              "North": "North",
+              "Centre": "Central"
+            }
           },
           "wealth": {
             "col_name": "wlthind5",
@@ -868,7 +829,7 @@
           "eth_hoh": {
             "col_name": "HC1C",
             "rename": {
-              "ethnic": "eth_hoh"
+              "HC1C": "eth_hoh"
             },
             "replace": null
           }
@@ -937,14 +898,10 @@
           "region": {
             "col_name": "HI7",
             "rename": {
-                "HH7": "region"
-              },
-              "replace": {
-                  "South": "South",
-                  "North": "North",
-                  "Central": "Central"
-                }
+              "HI7": "region"
             },
+            "replace": null
+          },
           "wealth": {
             "col_name": "WLTHIND5",
             "rename": {
@@ -959,21 +916,43 @@
             }
           },
           "eth_hoh": {
-            "col_name": "MHI1",
+            "col_name": "HI16",
             "rename": {
-              "MHI1": "eth_hoh"
+              "HI16": "eth_hoh"
             },
             "replace": {
-              "Kinh": "Kinh and Hoa",
-              "Muong": "Tay, Thai, Muong, Nung",
-              "Thai": "Tay, Thai, Muong, Nung",
-              "Khac": "Other/Missing",
-              "H'mong": "Mong",
-              "Tay": "Tay, Thai, Muong, Nung",
-              "Nung": "Tay, Thai, Muong, Nung",
-              "Dao": "Other/Missing",
-              "Hoa": "Kinh and Hoa",
-              "Kho me": "Other/Missing"
+                "Alak": "Chinese-Tibetan",
+                "Cheng": "Mon-Khmer",
+                "Hmong": "Hmong-Mien",
+                "Hor": "Chinese-Tibetan",
+                "Kammu": "Mon-Khmer",
+                "Katang": "Mon-Khmer",
+                "Katu": "Mon-Khmer",
+                "Ko": "Other, DK, Missing",
+                "Kxame": "Other, DK, Missing",
+                "Lamed": "Mon-Khmer",
+                "Lao": "Lao-Tai",
+                "La-ve": "Mon-Khmer",
+                "Lavene": "Other, DK, Missing",
+                "Leu": "Lao-Tai",
+                "Makong": "Mon-Khmer",
+                "Nge": "Other, DK, Missing",
+                "others": "Other, DK, Missing",
+                "Oy": "Mon-Khmer",
+                "Pako": "Mon-Khmer",
+                "Phounoi": "Chinese-Tibetan",
+                "Phoutai": "Lao-Tai",
+                "Pxong": "Mon-Khmer",
+                "Samtao": "Mon-Khmer",
+                "Talieng": "Mon-Khmer",
+                "Ta-ou": "Mon-Khmer",
+                "Tin": "Other, DK, Missing",
+                "Tri": "Mon-Khmer",
+                "Xouay": "Mon-Khmer",
+                "Yang": "Lao-Tai",
+                "Yao": "Other, DK, Missing",
+                "Ye": "Mon-Khmer",
+                "Youane": "Lao-Tai"
             }
           }
         },
@@ -983,7 +962,7 @@
           "household_id": "HID",
           "mem_id": "HL1",
           "relationship_hoh": {
-            "col_name": "relationship_hoh",
+            "col_name": "HL15",
             "value": "Head"
           },
           "sex_hoh": {
