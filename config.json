@@ -870,68 +870,46 @@
             "rename": {
               "ethnic": "eth_hoh"
             },
-            "replace": {
-              "Kinh": "Kinh and Hoa",
-              "Muong": "Tay, Thai, Muong, Nung",
-              "Thai": "Tay, Thai, Muong, Nung",
-              "Tay": "Tay, Thai, Muong, Nung",
-              "H Mong": "Mong",
-              "Nung": "Tay, Thai, Muong, Nung",
-              "Dao": "Other/Missing",
-              "Gia-Rai": "Other/Missing",
-              "Hoa": "Kinh and Hoa",
-              "BaNa": "Other/Missing",
-              "Kho Me": "Other/Missing",
-              "Cham": "Other/Missing",
-              "Hre": "Other/Missing",
-              "Xo Dang": "Other/Missing",
-              "Ede": "Other/Missing",
-              "Khang": "Other/Missing",
-              "Bru": "Other/Missing",
-              "Ma": "Other/Missing",
-              "San Chay": "Other/Missing",
-              "San Diu": "Other/Missing",
-              "MNong": "Other/Missing"
-            }
+            "replace": null
           }
         },
         "listing": {
           "filename": "hl_2006.sav",
-          "cluster_id": "hh1",
-          "household_id": "hh2",
-          "mem_id": "hl1",
+          "cluster_id": "HH1",
+          "household_id": "HH2",
+          "mem_id": "HL1",
           "relationship_hoh": {
-            "col_name": "hl3",
+            "col_name": "HL3",
             "value": "Head"
           },
           "sex_hoh": {
-            "col_name": "hl4",
+            "col_name": "HL4",
             "rename": {
-              "hl4": "sex_hoh"
+              "HL4": "sex_hoh"
             },
             "replace": null
           },
           "elderly_hoh": {
-            "col_name": "hl5",
+            "col_name": "HL5",
             "rename": {
-              "hl5": "elderly_hoh"
+              "HL5": "elderly_hoh"
             },
             "replace": null
           },
           "edu": {
-            "col_name": ["ed3a"]
+            "col_name": ["ED3A"]
           }
         },
         "women": {
           "filename": "wm_2006.sav",
-          "cluster_id": "hh1",
-          "household_id": "hh2",
+          "cluster_id": "HH1",
+          "household_id": "HH2",
           "weight": ["wmweight"]
         },
         "children": {
           "filename": "ch_2006.sav",
-          "cluster_id": "hh1",
-          "household_id": "hh2",
+          "cluster_id": "HH1",
+          "household_id": "HH2",
           "weight": ["chweight"]
         },
         "merge": {
