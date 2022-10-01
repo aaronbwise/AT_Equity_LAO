@@ -302,6 +302,8 @@ def update_hhid_variables(df, country, year):
 
     return df
 
+
+
 def update_hl_variables(df, country, year):
     """
     Function to ...

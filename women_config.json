@@ -720,95 +720,179 @@
       }
     },
     "2006": {
-        "anc_4_visits": {
-          "col_names": ["MN3"],
-          "dtype": "num_categorical",
-          "convert_values": {
-            "DK": "NaN",
-            "Missing": "NaN"
-          }
-        },
-        "anc_3_components": {
-          "col_names": ["MN3B", "MN3C", "MN3D"],
-          "values": ["Yes"]
-        },
-        "inst_delivery": {
-          "col_names": ["MN8"],
-          "values": [
-            "Government hospital",
-            "Government clinic/health center",
-            "Private clinic",
-            "Private maternity home"
-          ]
-        },
-        "caesarean_del": {
-          "col_names": ["MN19"],
-          "values": ["Yes"]
-        },
-        "pnc_mother": {
-          "sub_indicators": {
-            "health_check_after_birth": {
+      "anc_4_visits": {
+        "col_names": ["MN3"],
+        "dtype": "num_categorical",
+        "convert_values": {
+          "DK": "NaN",
+          "Missing": "NaN"
+        }
+      },
+      "anc_3_components": {
+        "col_names": ["MN3B", "MN3C", "MN3D"],
+        "values": ["Yes"]
+      },
+      "inst_delivery": {
+        "col_names": ["MN8"],
+        "values": [
+          "Government hospital",
+          "Government clinic/health center",
+          "Private clinic",
+          "Private maternity home"
+        ]
+      },
+      "caesarean_del": {
+        "col_names": ["MN19"],
+        "values": ["Yes"]
+      },
+      "pnc_mother": {
+        "sub_indicators": {
+          "health_check_after_birth": {
+            "col_names": null,
+            "values": null
+          },
+          "pnc_2_days": {
+            "time_cat": {
               "col_names": null,
               "values": null
             },
-            "pnc_2_days": {
-              "time_cat": {
-                "col_names": null,
-                "values": null
-              },
-              "time_num": {
-                "col_names": null,
-                "dtype": null,
-                "convert_values": null
-              },
-              "pnc_health_provider": null
-            }
-          }
-        },
-        "low_bw": {
-          "birth_size": {
-            "col_names": ["MN9"]
-          },
-          "birth_weight": {
-            "col_names": ["MN11"]
-          }
-        },
-        "early_bf": {
-          "time_cat": {
-            "col_names": ["MN13U"],
-            "values": ["Immediately", "Hours", "Minute", "Days"]
-          },
-          "time_num": {
-            "col_names": ["MN13N"],
-            "dtype": "num_categorical"
-          }
-        },
-        "mother_edu": {
-          "col_names": ["WM11"],
-          "values": {
-            "ece": ["Preschool/kindergarten"],
-            "primary": ["Primary"],
-            "secondary": [
-              "Lower Secondary",
-              "Secondary",
-              "Long apprentice",
-              "Short apprentice",
-              "Non-standard curriculum"
-            ],
-            "higher": ["Higher"],
-            "DK": ["DK"]
-          }
-        },
-        "women_file_subset": {
-          "col_names": {
-            "quest_complete": ["WM7"],
-            "birth_2_years": ["WP4"]
-          },
-          "values": {
-            "quest_complete": ["Completed"],
-            "birth_2_years": ["Yes"]
+            "time_num": {
+              "col_names": null,
+              "dtype": null,
+              "convert_values": null
+            },
+            "pnc_health_provider": null
           }
         }
+      },
+      "low_bw": {
+        "birth_size": {
+          "col_names": ["MN9"]
+        },
+        "birth_weight": {
+          "col_names": ["MN11"]
+        }
+      },
+      "early_bf": {
+        "time_cat": {
+          "col_names": ["MN13U"],
+          "values": ["Immediately", "Hours", "Minute", "Days"]
+        },
+        "time_num": {
+          "col_names": ["MN13N"],
+          "dtype": "num_categorical"
+        }
+      },
+      "mother_edu": {
+        "col_names": ["WM11"],
+        "values": {
+          "ece": ["Preschool/kindergarten"],
+          "primary": ["Primary"],
+          "secondary": [
+            "Lower Secondary",
+            "Secondary",
+            "Long apprentice",
+            "Short apprentice",
+            "Non-standard curriculum"
+          ],
+          "higher": ["Higher"],
+          "DK": ["DK"]
+        }
+      },
+      "women_file_subset": {
+        "col_names": {
+          "quest_complete": ["WM7"],
+          "birth_2_years": ["WP4"]
+        },
+        "values": {
+          "quest_complete": ["Completed"],
+          "birth_2_years": ["Yes"]
+        }
       }
+    },
+    "2000": {
+      "anc_4_visits": {
+        "col_names": null,
+        "dtype": null,
+        "convert_values": {
+          "DK": null,
+          "Missing": null
+        }
+      },
+      "anc_3_components": {
+        "col_names": null,
+        "values": null
+      },
+      "inst_delivery": {
+        "col_names": null,
+        "values": null
+      },
+      "caesarean_del": {
+        "col_names": null,
+        "values": null
+      },
+      "pnc_mother": {
+        "sub_indicators": {
+          "health_check_after_birth": {
+            "col_names": null,
+            "values": null
+          },
+          "pnc_2_days": {
+            "time_cat": {
+              "col_names": null,
+              "values": null
+            },
+            "time_num": {
+              "col_names": null,
+              "dtype": null,
+              "convert_values": null
+            },
+            "pnc_health_provider": null
+          }
+        }
+      },
+      "low_bw": {
+        "birth_size": {
+          "col_names": ["MN4"]
+        },
+        "birth_weight": {
+          "col_names": ["MN6"]
+        }
+      },
+      "early_bf": {
+        "time_cat": {
+          "col_names": null,
+          "values": null
+        },
+        "time_num": {
+          "col_names": null,
+          "dtype": null
+        }
+      },
+      "iron_supp": {
+        "col_names": ["MN3"],
+        "values": ["Yes", "Missing", "DK"]
+      },
+      "mother_edu": {
+        "col_names": ["ED16A"],
+        "values": {
+          "ece": ["null"],
+          "primary": ["Primary"],
+          "secondary": ["Secondary", "Non-formal curriculum"],
+          "higher": ["Higher"],
+          "DK": ["DK", "Missing"]
+        }
+      },
+      "women_file_subset": {
+        "col_names": {
+          "quest_complete": ["Svy_Completed"],
+          "birth_2_years": ["WI4"]
+        },
+        "values": {
+          "quest_complete": ["Completed"],
+          "birth_2_years": ["Yes"]
+        }
+      }
+    }
   }
 }

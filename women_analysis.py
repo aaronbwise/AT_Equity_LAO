@@ -353,7 +353,7 @@ def create_mother_edu(df, country, year, recode):
     df["mother_edu"] = np.where((df[var_mother_edu].isnull()) | (df[var_mother_edu].isin(mother_edu_ece_values)), "Mother Edu: None/ECE",
                         np.where(df[var_mother_edu].isin(mother_edu_primary_values), "Mother Edu: Primary",
                         np.where(df[var_mother_edu].isin(mother_edu_secondary_values), "Mother Edu: Secondary",
-                        np.where(df[var_mother_edu].isin(mother_edu_higher_values), "Mother Edu: Higher", "Missing"))))
+                        np.where(df[var_mother_edu].isin(mother_edu_higher_values), "Mother Edu: Higher", np.nan))))
 
     return df
 
@@ -363,6 +363,9 @@ def subset_women_file(df, country, year):
     """
     Function to subset women file for 1. Complete and 2. birth in past 2 years
     """
+    
+    df = generate_completed_col(df, country, year)
+
     # :: COL_NAMES
     var_women_complete = config_data_w[country][year]["women_file_subset"]["col_names"]["quest_complete"][0]
     var_birth_2_years = config_data_w[country][year]["women_file_subset"]["col_names"]["birth_2_years"][0]
@@ -430,7 +433,7 @@ def convert_bw_g_to_kg(df, country, year):
     """
     Function to update early bf variables to work with function above
     """
-    if country == 'VNM' and year == '2000':
+    if country in ['VNM', 'LAO'] and year == '2000':
 
         # :: COL_NAMES
         var_birth_weight = config_data_w[country][year]["low_bw"]["birth_weight"]["col_names"][0]
@@ -463,4 +466,15 @@ def mother_edu_none_to_null(df, country, year, recode):
     else:
         pass
 
+    return df
+
+def generate_completed_col(df, country, year):
+    """
+    Adds a completed column to women survey file
+    """
+    if country == 'LAO' and year == '2000':
+        df['Svy_Completed'] = 'Completed'
+    else:
+        pass
+    
     return df

@@ -574,7 +574,7 @@
           "region": {
             "col_name": "hh7r",
             "rename": {
-              "HH7": "region"
+              "hh7r": "region"
             },
             "replace": null
           },
@@ -667,7 +667,7 @@
           "region": {
             "col_name": "HH7R",
             "rename": {
-              "HH7": "region"
+              "HH7R": "region"
             },
             "replace": null
           },
@@ -997,8 +997,8 @@
         },
         "merge": {
           "filename": {
-            "hh": "VNM_2000_household_merge.csv",
-            "hl": "VNM_2000_listing_merge.csv"
+            "hh": "LAO_2000_household_merge.csv",
+            "hl": "LAO_2000_listing_merge.csv"
           }
         }
       }
