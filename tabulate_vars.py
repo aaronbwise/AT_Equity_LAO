@@ -41,7 +41,7 @@ def read_csv_file(country, recode, year=None, file_type='combined'):
 
     df = rename_weight(df, recode, year)
 
-    df = drop_svy_completed(df, country, year)
+    df = drop_svy_completed(df, country, year, file_type)
 
     return df
 
@@ -276,11 +276,11 @@ def rename_weight(df, recode, year):
 
     return df
 
-def drop_svy_completed(df, country, year):
+def drop_svy_completed(df, country, year, file_type):
     """
     Drop svy completed col if Lao 2000
     """
-    if year == '2000' and country == 'LAO':
+    if year == '2000' and country == 'LAO' and file_type == 'combined':
         df = df.drop(columns=['Svy_Completed'])
     else:
         pass

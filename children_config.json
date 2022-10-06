@@ -660,6 +660,330 @@
         "col_names": ["UF17"],
         "values": ["COMPLETED"]
       }
+    },
+    "2012": {
+      "ch_age_cat": {
+        "col_names": ["CAGE"]
+      },
+      "excl_bf": {
+        "breastmilk": {
+          "col_names": ["BF2"],
+          "values": ["Yes"]
+        },
+        "liquids": {
+          "col_names": ["BF3", "BF4", "BF6", "BF8", "BF9", "BF12", "BF15"],
+          "values": ["Yes"]
+        },
+        "solids": {
+          "col_names": ["BF13", "BF16"],
+          "values": ["Yes"]
+        }
+      },
+      "mdd_ch": {
+        "grains": {
+          "col_names": ["BD8B", "BD8C", "BD8E"],
+          "values": ["Yes"]
+        },
+        "legumes": {
+          "col_names": ["BD8M"],
+          "values": ["Yes"]
+        },
+        "dairy": {
+          "col_names": ["BD7D", "BD7E", "BD8A", "BD8N"],
+          "values": ["Yes"]
+        },
+        "flesh": {
+          "col_names": ["BD8I", "BD8J", "BD8L"],
+          "values": ["Yes"]
+        },
+        "eggs": {
+          "col_names": ["BD8K"],
+          "values": ["Yes"]
+        },
+        "vitaminA": {
+          "col_names": ["BD8D", "BD8F", "BD8G"],
+          "values": ["Yes"]
+        },
+        "other": {
+          "col_names": ["BD8H"],
+          "values": ["Yes"]
+        }
+      },
+      "mmf_ch": {
+        "formula_times": {
+          "col_names": ["BF5"]
+        },
+        "other_milk_times": {
+          "col_names": ["BF7"]
+        },
+        "yogurt_times": {
+          "col_names": ["BF14"]
+        },
+        "solid_semi_soft_times": {
+          "col_names": ["BF17"]
+        },
+        "num_times_cat_list": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+        ],
+        "num_times_float_list": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+        ]
+      },
+      "stunting_ch": {
+        "col_names": ["HAZFLAG", "HAZ2"],
+        "values": ["Error flag"]
+      },
+      "wasting_ch": {
+        "col_names": ["WHZFLAG", "WHZ2"],
+        "values": ["Error flag"]
+      },
+      "overweight_ch": {
+        "col_names": ["WHZFLAG", "WHZ2"],
+        "values": ["Error flag"]
+      },
+      "sex_ch": {
+        "col_names": ["HL4"],
+        "values": {
+          "male": ["Male"],
+          "female": ["Female"]
+        }
+      },
+      "momid": {
+        "col_names": ["UF6"]
+      },
+      "mother_edu": {
+        "col_names": ["ED4A_y"],
+        "values": {
+          "ece": ["Preschool"],
+          "primary": ["Primary"],
+          "secondary": [
+            "Lower Secondary",
+            "Upper Secondary",
+            "Post secondary non tertiary"
+          ],
+          "higher": ["Tertiary Education"],
+          "DK": ["DK"]
+        }
+      },
+      "mom_edu_fn": "LAO_2012_listing_merge_education.csv",
+      "children_file_subset": {
+        "col_names": ["UF9"],
+        "values": ["Completed"]
+      }
+    },
+    "2006": {
+      "ch_age_cat": {
+        "col_names": ["cage"]
+      },
+      "excl_bf": {
+        "breastmilk": {
+          "col_names": ["BF2"],
+          "values": ["Yes"]
+        },
+        "liquids": {
+          "col_names": ["BF3B", "BF3C", "BF3E", "BF3F", "BF3G"],
+          "values": ["Yes"]
+        },
+        "solids": {
+          "col_names": ["BF3H"],
+          "values": ["Yes"]
+        }
+      },
+      "mdd_ch": {
+        "grains": {
+          "col_names": ["BD8B", "BD8C", "BD8E"],
+          "values": ["Yes"]
+        },
+        "legumes": {
+          "col_names": ["BD8M"],
+          "values": ["Yes"]
+        },
+        "dairy": {
+          "col_names": ["BD7D", "BD7E", "BD8A", "BD8N"],
+          "values": ["Yes"]
+        },
+        "flesh": {
+          "col_names": ["BD8I", "BD8J", "BD8L"],
+          "values": ["Yes"]
+        },
+        "eggs": {
+          "col_names": ["BD8K"],
+          "values": ["Yes"]
+        },
+        "vitaminA": {
+          "col_names": ["BD8D", "BD8F", "BD8G"],
+          "values": ["Yes"]
+        },
+        "other": {
+          "col_names": ["BD8H"],
+          "values": ["Yes"]
+        }
+      },
+      "mmf_ch": {
+        "formula_times": {
+          "col_names": ["BF5"]
+        },
+        "other_milk_times": {
+          "col_names": ["BF7"]
+        },
+        "yogurt_times": {
+          "col_names": ["BF14"]
+        },
+        "solid_semi_soft_times": {
+          "col_names": ["BF17"]
+        },
+        "num_times_cat_list": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+        ],
+        "num_times_float_list": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+        ]
+      },
+      "stunting_ch": {
+        "col_names": ["hazflag", "zhaz"],
+        "values": ["Error flag"]
+      },
+      "wasting_ch": {
+        "col_names": ["whzflag", "zwhz"],
+        "values": ["Error flag"]
+      },
+      "overweight_ch": {
+        "col_names": ["whzflag", "zwhz"],
+        "values": ["Error flag"]
+      },
+      "sex_ch": {
+        "col_names": ["HL4"],
+        "values": {
+          "male": ["Male"],
+          "female": ["Female"]
+        }
+      },
+      "momid": {
+        "col_names": ["UF6"]
+      },
+      "mother_edu": {
+        "col_names": ["ED3A_y"],
+        "values": {
+          "ece": ["Preschool/kindergarten"],
+          "primary": ["Primary", "Non-standard curriculum"],
+          "secondary": ["Secondary"],
+          "higher": ["Higher"],
+          "DK": ["DK"]
+        }
+      },
+      "mom_edu_fn": "LAO_2006_listing_merge_education.csv",
+      "children_file_subset": {
+        "col_names": ["UF9"],
+        "values": ["Completed"]
+      }
+    },
+    "2000": {
+      "ch_age_cat": {
+        "col_names": ["CAGE"]
+      },
+      "excl_bf": {
+        "breastmilk": {
+          "col_names": ["BF2"],
+          "values": ["Yes"]
+        },
+        "liquids": {
+          "col_names": ["BF3B", "BF3C", "BF3E", "BF3F"],
+          "values": ["Yes"]
+        },
+        "solids": {
+          "col_names": ["BF3G"],
+          "values": ["Yes"]
+        }
+      },
+      "mdd_ch": {
+        "grains": {
+          "col_names": ["BD8B", "BD8C", "BD8E"],
+          "values": ["Yes"]
+        },
+        "legumes": {
+          "col_names": ["BD8M"],
+          "values": ["Yes"]
+        },
+        "dairy": {
+          "col_names": ["BD7D", "BD7E", "BD8A", "BD8N"],
+          "values": ["Yes"]
+        },
+        "flesh": {
+          "col_names": ["BD8I", "BD8J", "BD8L"],
+          "values": ["Yes"]
+        },
+        "eggs": {
+          "col_names": ["BD8K"],
+          "values": ["Yes"]
+        },
+        "vitaminA": {
+          "col_names": ["BD8D", "BD8F", "BD8G"],
+          "values": ["Yes"]
+        },
+        "other": {
+          "col_names": ["BD8H"],
+          "values": ["Yes"]
+        }
+      },
+      "mmf_ch": {
+        "formula_times": {
+          "col_names": ["BF5"]
+        },
+        "other_milk_times": {
+          "col_names": ["BF7"]
+        },
+        "yogurt_times": {
+          "col_names": ["BF14"]
+        },
+        "solid_semi_soft_times": {
+          "col_names": ["BF17"]
+        },
+        "num_times_cat_list": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+        ],
+        "num_times_float_list": [
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+        ]
+      },
+      "stunting_ch": {
+        "col_names": ["flen", "zlen"],
+        "values": ["Error flag"]
+      },
+      "wasting_ch": {
+        "col_names": ["fwei", "zwei"],
+        "values": ["Error flag"]
+      },
+      "overweight_ch": {
+        "col_names": ["fwei", "zwei"],
+        "values": ["Error flag"]
+      },
+      "sex_ch": {
+        "col_names": ["HL3"],
+        "values": {
+          "male": ["Male"],
+          "female": ["Female"]
+        }
+      },
+      "momid": {
+        "col_names": ["CHCTNO"]
+      },
+      "mother_edu": {
+        "col_names": ["ED16A_y"],
+        "values": {
+          "ece": ["NULL"],
+          "primary": ["Primary"],
+          "secondary": [
+            "Secondary"
+          ],
+          "higher": ["Higher"],
+          "DK": ["DK", "Missing", "Non-formal curriculum"]
+        }
+      },
+      "mom_edu_fn": "LAO_2000_listing_merge_education.csv",
+      "children_file_subset": {
+        "col_names": ["HI10"],
+        "values": ["Completed"]
+      }
     }
   }
 }

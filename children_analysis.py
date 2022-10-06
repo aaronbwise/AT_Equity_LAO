@@ -94,6 +94,7 @@ def create_ch_age_cat(df, country, year):
     df["ch_age_cat_9_23"] = np.where((df[var_ch_age_cat] >= 9) & (df[var_ch_age_cat] <= 23), 100, 0)
     df["ch_age_cat_12_23"] = np.where((df[var_ch_age_cat] >= 12) & (df[var_ch_age_cat] <= 23), 100, 0)
     df["ch_age_cat_6_23"] = np.where((df[var_ch_age_cat] >= 6) & (df[var_ch_age_cat] <= 23), 100, 0)
+    df["ch_age_cat_6_59"] = np.where((df[var_ch_age_cat] >= 6) & (df[var_ch_age_cat] <= 59), 100, 0)
 
     return df
 
@@ -255,6 +256,7 @@ def create_stunting_ch(df, country, year):
     """
     Function to create Child Stunting (< -2SD) variable [stunting_ch]
     """
+    # update_flag_value(df, country, year)
 
     # :: COL_NAMES
     var_stunting_flag = config_data[country][year]["stunting_ch"]["col_names"][0]
@@ -337,5 +339,24 @@ def subset_children_file(df, country, year):
     df = df[(df[var_children_complete] == children_complete_values)]
 
     print(f"The number of children with a completed survey is: {df.shape[0]}")
+
+    return df
+
+
+## HELPER FUNCTIONS
+def update_flag_value(df, country, year):
+    """
+    Function to convert flag value to match
+    """
+    if country == 'LAO' and year == '2006':
+        df['hazflag'] = np.where(df['hazflag'].eq(1), 'Error flag', 'No error')
+        df['whzflag'] = np.where(df['whzflag'].eq(1), 'Error flag', 'No error')
+
+    elif country == 'LAO' and year == '2000':
+        df['flen'] = df['flen'].replace({1: 'Error flag', 0: 'No error'})
+        df['fwei'] = df['fwei'].replace({1: 'Error flag', 0: 'No error'})
+    
+    else:
+        pass
 
     return df

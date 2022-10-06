@@ -1,0 +1,33 @@
+,int_2017_CH Sex: Male,int_2017_Urban,int_2017_Central,int_2017_Secondary_Higher,int_2017_Richest,int_2017_Lao_Tai,int_2017_Elderly HoH: NO,int_2017_Male
+sex_ch,"[c0    1.052638
+Name: coef, dtype: float64, c0    1.283902
+Name: t, dtype: float64, c0    0.199263
+Name: P>|t|, dtype: float64]",,,,,,,
+residence,,"[c0    10.681543
+Name: coef, dtype: float64, c0    12.029805
+Name: t, dtype: float64, c0    1.118254e-32
+Name: P>|t|, dtype: float64]",,,,,,
+region,,,"[c0    4.755975
+Name: coef, dtype: float64, c0    4.274731
+Name: t, dtype: float64, c0    0.00002
+Name: P>|t|, dtype: float64]",,,,,
+mother_edu_biv,,,,"[c0    9.244856
+Name: coef, dtype: float64, c0    11.408656
+Name: t, dtype: float64, c0    1.287738e-29
+Name: P>|t|, dtype: float64]",,,,
+wealth_q,,,,,"[c0    13.720909
+Name: coef, dtype: float64, c0    12.841518
+Name: t, dtype: float64, c0    6.720980e-37
+Name: P>|t|, dtype: float64]",,,
+eth_hoh_biv,,,,,,"[c0    9.903494
+Name: coef, dtype: float64, c0    12.24538
+Name: t, dtype: float64, c0    8.948288e-34
+Name: P>|t|, dtype: float64]",,
+elderly_hoh,,,,,,,"[c0   -3.513674
+Name: coef, dtype: float64, c0   -3.235366
+Name: t, dtype: float64, c0    0.001226
+Name: P>|t|, dtype: float64]",
+sex_hoh,,,,,,,,"[c0   -5.697059
+Name: coef, dtype: float64, c0   -4.216624
+Name: t, dtype: float64, c0    0.000025
+Name: P>|t|, dtype: float64]"

@@ -15,9 +15,9 @@ wealth_q,,,,"[c0    4.784772
 Name: coef, dtype: float64, c0    4.045502
 Name: t, dtype: float64, c0    0.000053
 Name: P>|t|, dtype: float64]",,,
-eth_hoh_biv,,,,,"[c0    1.930468
-Name: coef, dtype: float64, c0    2.139889
-Name: t, dtype: float64, c0    0.032391
+eth_hoh_biv,,,,,"[c0    1.952687
+Name: coef, dtype: float64, c0    2.16402
+Name: t, dtype: float64, c0    0.030489
 Name: P>|t|, dtype: float64]",,
 elderly_hoh,,,,,,"[c0   -1.793887
 Name: coef, dtype: float64, c0   -1.456984

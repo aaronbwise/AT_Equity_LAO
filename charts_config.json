@@ -60,7 +60,10 @@
       "cont_1223_bf": "Children 12-23 months still breastfeeding: ",
       "mdd_ch": "Children 6-23 months with minimum dietary diversity (MDD): ",
       "mmf_ch": "Children 6-23 months with minimum meal frequency (MFF): ",
-      "mad_ch": "Children 6-23 months with minimum acceptable diet (MAD): "
+      "mad_ch": "Children 6-23 months with minimum acceptable diet (MAD): ",
+      "stunting_ch": "Stunting among children 0-59 months (HAZ < -2SD WHO standard): ",
+      "wasting_ch": "Wasting among children 0-59 months (WHZ < -2SD WHO standard): ",
+      "overweight_ch": "Overweight among children 0-59 months (WHZ > 2SD WHO standard): "
     },
     "ind_vars_dict": {
       "sex_ch": "Child Sex",
@@ -76,13 +79,10 @@
         "sex_ch": ["CH Sex: Male", "CH Sex: Female"],
         "residence": ["Urban", "Rural"],
         "region": [
-          "Red River Delta",
-          "Northern Midlands and Mountain",
-          "North Central and Central Coast",
-          "Central Highlands",
-          "Southeast",
-          "Mekong River Delta"
-        ],
+            "North",
+            "Central",
+            "South"
+          ],
         "mother_edu": [
           "Mother Edu: Higher",
           "Mother Edu: Secondary",
@@ -92,12 +92,12 @@
         ],
         "wealth_q": ["Richest", "Rich", "Middle", "Poor", "Poorest"],
         "eth_hoh": [
-          "Kinh and Hoa",
-          "Tay, Thai, Muong, Nung",
-          "Khmer",
-          "Mong",
-          "Other/Missing"
-        ],
+            "Lao-Tai",
+            "Mon-Khmer",
+            "Hmong-Mien",
+            "Chinese-Tibetan",
+            "Other, DK, Missing"
+          ],
         "elderly_hoh": ["Elderly HoH: YES", "Elderly HoH: NO"],
         "sex_hoh": ["Male", "Female"]
       },
@@ -106,7 +106,10 @@
         "cont_1223_bf": [20, 100],
         "mdd_ch": [0, 100],
         "mmf_ch": [0, 100],
-        "mad_ch": [0, 100]
+        "mad_ch": [0, 100],
+        "stunting_ch": [0, 60],
+        "wasting_ch": [0, 30],
+        "overweight_ch": [0, 10]
       }
   }
 }
