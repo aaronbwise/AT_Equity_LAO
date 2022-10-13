@@ -1,4 +1,4 @@
-,int_2017_CH Sex: Male,int_2017_Urban,int_2017_North,int_2017_Secondary_Higher,int_2017_Middle,int_2017_Lao_Tai,int_2017_Elderly HoH: NO,int_2017_Male
+,int_2017_CH Sex: Male,int_2017_Urban,int_2017_North,int_2017_Secondary_Higher,int_2017_Poorest,int_2017_Lao_Tai,int_2017_Elderly HoH: NO,int_2017_Male
 sex_ch,"[c0   -2.556113
 Name: coef, dtype: float64, c0   -0.528853
 Name: t, dtype: float64, c0    0.596976
@@ -15,9 +15,9 @@ mother_edu_biv,,,,"[c0    3.484685
 Name: coef, dtype: float64, c0    0.565655
 Name: t, dtype: float64, c0    0.571703
 Name: P>|t|, dtype: float64]",,,,
-wealth_q,,,,,"[c0    6.321375
-Name: coef, dtype: float64, c0    0.999537
-Name: t, dtype: float64, c0    0.317676
+wealth_q,,,,,"[c0    6.845884
+Name: coef, dtype: float64, c0    0.947417
+Name: t, dtype: float64, c0    0.343726
 Name: P>|t|, dtype: float64]",,,
 eth_hoh_biv,,,,,,"[c0   -0.795597
 Name: coef, dtype: float64, c0   -0.16867

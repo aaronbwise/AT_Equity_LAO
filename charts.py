@@ -40,7 +40,7 @@ def generate_charts(df, var_dep, ind_var, recode):
     num_years = df['Year'].nunique()
 
     if var_dep == 'iron_supp':
-        year_list = ['2000', '2012', '2017']
+        year_list = ['2000', '2012']
         
     else:
         year_list = ['2000', '2006', '2012', '2017']

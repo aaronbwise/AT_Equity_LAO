@@ -271,7 +271,7 @@ def create_stunting_ch(df, country, year):
 
     # Create indicator
     df['stunting_ch'] = np.where(df[var_stunting_z] < -2, 100, 0)
-    df['stunting_ch'] = np.where(df[var_stunting_flag].eq(stunting_flag_values), np.nan, df['stunting_ch'])
+    df['stunting_ch'] = np.where((df[var_stunting_flag].eq(stunting_flag_values)) | (df[var_stunting_z].isnull()), np.nan, df['stunting_ch'])
 
     return df
 
@@ -295,7 +295,7 @@ def create_wasting_ch(df, country, year):
 
     # Create indicator
     df['wasting_ch'] = np.where(df[var_wasting_z] < -2, 100, 0)
-    df['wasting_ch'] = np.where(df[var_wasting_flag].eq(wasting_flag_values), np.nan, df['wasting_ch'])
+    df['wasting_ch'] = np.where((df[var_wasting_flag].eq(wasting_flag_values)) | (df[var_wasting_z].isnull()), np.nan, df['wasting_ch'])
 
     return df
 
@@ -319,7 +319,7 @@ def create_overweight_ch(df, country, year):
 
     # Create indicator
     df['overweight_ch'] = np.where(df[var_overweight_z] > 2, 100, 0)
-    df['overweight_ch'] = np.where(df[var_overweight_flag].eq(overweight_flag_values), np.nan, df['overweight_ch'])
+    df['overweight_ch'] = np.where((df[var_overweight_flag].eq(overweight_flag_values)) | (df[var_overweight_z].isnull()), np.nan, df['overweight_ch'])
 
     return df
 

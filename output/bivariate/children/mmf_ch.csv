@@ -15,13 +15,13 @@ mother_edu_biv,,,,"[c0   -1.304589
 Name: coef, dtype: float64, c0   -0.534157
 Name: t, dtype: float64, c0    0.593251
 Name: P>|t|, dtype: float64]",,,,
-wealth_q,,,,,"[c0    6.717228
-Name: coef, dtype: float64, c0    2.162921
-Name: t, dtype: float64, c0    0.030583
+wealth_q,,,,,"[c0    4.291102
+Name: coef, dtype: float64, c0    1.217757
+Name: t, dtype: float64, c0    0.223418
 Name: P>|t|, dtype: float64]",,,
-eth_hoh_biv,,,,,,"[c0    0.349543
-Name: coef, dtype: float64, c0    0.150346
-Name: t, dtype: float64, c0    0.880496
+eth_hoh_biv,,,,,,"[c0    0.327329
+Name: coef, dtype: float64, c0    0.14077
+Name: t, dtype: float64, c0    0.888056
 Name: P>|t|, dtype: float64]",,
 elderly_hoh,,,,,,,"[c0    0.031798
 Name: coef, dtype: float64, c0    0.010022

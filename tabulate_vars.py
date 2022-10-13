@@ -116,7 +116,7 @@ def create_reduced_df(df, var_dep, ind_var, var_year, weight):
     temp = temp[temp[var_year[0]].isin(year_min_max_list)]
 
     # Remove wealth middle categories
-    temp = drop_wealth_middle_cats(temp, var_dep)
+    temp = drop_wealth_middle_cats(temp, ind_var)
 
     # Remove region middle categories
     temp = drop_region_middle_cats(temp, var_dep, ind_var, year_min, weight)
@@ -201,6 +201,8 @@ def drop_wealth_middle_cats(df, ind_var):
     Function to drop middle weath categories if var_dep == wealth_q
     """
     temp = df
+
+    print(ind_var[0])
 
     if ind_var[0] == 'wealth_q':
         bottom_top_values = ['Poorest', 'Richest']
