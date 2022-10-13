@@ -103,11 +103,11 @@
       },
       "y_limits": {
         "excl_bf": [0, 100],
-        "cont_1223_bf": [20, 100],
+        "cont_1223_bf": [0, 100],
         "mdd_ch": [0, 100],
         "mmf_ch": [0, 100],
         "mad_ch": [0, 100],
-        "stunting_ch": [0, 60],
+        "stunting_ch": [0, 70],
         "wasting_ch": [0, 30],
         "overweight_ch": [0, 10]
       }

@@ -946,15 +946,15 @@
         ]
       },
       "stunting_ch": {
-        "col_names": ["flen", "zlen"],
+        "col_names": ["FLAG_HAZ", "HAZ_WHO"],
         "values": ["Error flag"]
       },
       "wasting_ch": {
-        "col_names": ["fwei", "zwei"],
+        "col_names": ["FLAG_WHZ", "WHZ_WHO"],
         "values": ["Error flag"]
       },
       "overweight_ch": {
-        "col_names": ["fwei", "zwei"],
+        "col_names": ["FLAG_WHZ", "WHZ_WHO"],
         "values": ["Error flag"]
       },
       "sex_ch": {

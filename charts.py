@@ -7,6 +7,8 @@ import pandas as pd
 # from matplotlib import rcParams, cycler
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
+from matplotlib.ticker import FormatStrFormatter
+
 
 import seaborn as sns
 
@@ -80,7 +82,7 @@ def generate_charts(df, var_dep, ind_var, recode):
 
     # Title/subtitle settings
     title_string = f'{titles_dict[var_dep]} {ind_vars_dict[ind_var]}'
-    ax.set_title(title_string, loc="left", fontsize = 12)
+    ax.set_title(title_string, loc="center", fontsize = 11, wrap=True)
 
     custom_line = [Line2D([0], [0], color='grey', lw=2)]
 
@@ -92,9 +94,14 @@ def generate_charts(df, var_dep, ind_var, recode):
     y_limits = config_data[recode]['y_limits'][var_dep]
     plt.ylim(y_limits)
 
+    # x_limits = [year_range[0], year_range[-1]]
+    # plt.xlim(x_limits)
+
     # Axis labels
     ax.set_xlabel('', fontsize = 10)
     ax.set_ylabel('Percentage (%)', fontsize = 10)
+
+    ax.xaxis.set_major_formatter(FormatStrFormatter('%.0f'))
 
     out_fn = var_dep.upper() + "_" + ind_var + ".svg"
     out_path = Path.cwd() / "output" / "charts" / recode / out_fn

@@ -784,9 +784,9 @@
         }
       },
       "mother_edu": {
-        "col_names": ["WM11"],
+        "col_names": ["melevel"],
         "values": {
-          "ece": ["Preschool/kindergarten"],
+          "ece": ["None", "Preschool/kindergarten"],
           "primary": ["Primary"],
           "secondary": [
             "Lower Secondary",

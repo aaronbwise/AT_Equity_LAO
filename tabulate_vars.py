@@ -262,6 +262,55 @@ def create_bivariate_var_dep(df, country):
     return temp
 
 
+def freq_concat(country, recode, dep_vars, year_list, index_vals):
+
+    data_dir = Path.cwd() / 'output' / 'frequencies' / recode
+    fn = country + "_" + recode + ".xlsx"
+    file_path = data_dir.joinpath(fn)
+
+    # Instantiate object
+    xlwriter = pd.ExcelWriter(file_path)
+
+    for var in dep_vars:
+        
+        list_of_columns = []
+
+        for year in year_list:
+
+            try:
+                # Read in sheet
+                data_dir = Path.cwd() / 'output' / 'frequencies' / recode
+                fn = country + "_" + recode + "_" + year + ".xlsx"
+                file_path = data_dir.joinpath(fn)
+
+                sheet = var + '_weighted'
+
+                output = pd.read_excel(file_path, sheet_name=sheet, index_col=0)
+                list_of_columns.append(output)
+            
+            except:
+                print(f"Warning: Var: {var} column for year: {year} does not exist")
+
+        if len(list_of_columns) > 1:
+            output = pd.concat(list_of_columns, axis=1)
+            output = output.fillna("---")
+            output = output.loc[index_vals, :]
+            # print(f"\n output length is: {len(output)} \n index_vals length is: {len(index_vals)} \n (pd.concat(list_of_columns) is:\n {output}")
+            output.to_excel(xlwriter, sheet_name=var)
+
+        elif len(list_of_columns) == 1:
+            output = pd.DataFrame(list_of_columns[0], columns=[var])
+            output = output.fillna("---")
+            # print(f"output type is: {type(output)} \n output length is: {len(output)} \n index_vals length is: {len(index_vals)} \n (pd.concat(list_of_columns) is:\n {output}")
+            output = output.loc[index_vals, :]
+            output.to_excel(xlwriter, sheet_name=var)
+        
+        else:
+            print(f"There were no sheets for var: {var}")
+
+   
+    xlwriter.close() 
+
 
 ## --- Helper functions to make comparable across surveys ---
 def rename_weight(df, recode, year):

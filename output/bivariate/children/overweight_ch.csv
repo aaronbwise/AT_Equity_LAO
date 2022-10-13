@@ -1,33 +1,33 @@
 ,int_2017_CH Sex: Male,int_2017_Urban,int_2017_Central,int_2017_None_Primary,int_2017_Richest,int_2017_Lao_Tai,int_2017_Elderly HoH: NO,int_2017_Male
-sex_ch,"[c0    0.610213
-Name: coef, dtype: float64, c0    0.597188
-Name: t, dtype: float64, c0    0.550393
+sex_ch,"[c0    1.058573
+Name: coef, dtype: float64, c0    0.99225
+Name: t, dtype: float64, c0    0.321094
 Name: P>|t|, dtype: float64]",,,,,,,
-residence,,"[c0    2.45428
-Name: coef, dtype: float64, c0    2.063403
-Name: t, dtype: float64, c0    0.039095
+residence,,"[c0    1.185898
+Name: coef, dtype: float64, c0    0.953281
+Name: t, dtype: float64, c0    0.340466
 Name: P>|t|, dtype: float64]",,,,,,
-region,,,"[c0   -0.395787
-Name: coef, dtype: float64, c0   -0.297745
-Name: t, dtype: float64, c0    0.765904
+region,,,"[c0    2.218349
+Name: coef, dtype: float64, c0    1.600071
+Name: t, dtype: float64, c0    0.109616
 Name: P>|t|, dtype: float64]",,,,,
-mother_edu_biv,,,,"[c0   -1.634912
-Name: coef, dtype: float64, c0   -1.251582
-Name: t, dtype: float64, c0    0.210745
+mother_edu_biv,,,,"[c0   -3.868657
+Name: coef, dtype: float64, c0   -2.829488
+Name: t, dtype: float64, c0    0.00467
 Name: P>|t|, dtype: float64]",,,,
-wealth_q,,,,,"[c0    1.978237
-Name: coef, dtype: float64, c0    1.10132
-Name: t, dtype: float64, c0    0.270807
+wealth_q,,,,,"[c0    4.618493
+Name: coef, dtype: float64, c0    2.457896
+Name: t, dtype: float64, c0    0.014007
 Name: P>|t|, dtype: float64]",,,
-eth_hoh_biv,,,,,,"[c0   -0.331077
-Name: coef, dtype: float64, c0   -0.313278
-Name: t, dtype: float64, c0    0.754074
+eth_hoh_biv,,,,,,"[c0    2.680555
+Name: coef, dtype: float64, c0    2.428097
+Name: t, dtype: float64, c0    0.015192
 Name: P>|t|, dtype: float64]",,
-elderly_hoh,,,,,,,"[c0   -1.531286
-Name: coef, dtype: float64, c0   -0.983875
-Name: t, dtype: float64, c0    0.325196
+elderly_hoh,,,,,,,"[c0   -1.582718
+Name: coef, dtype: float64, c0   -0.967951
+Name: t, dtype: float64, c0    0.333087
 Name: P>|t|, dtype: float64]",
-sex_hoh,,,,,,,,"[c0   -1.064624
-Name: coef, dtype: float64, c0   -0.534109
-Name: t, dtype: float64, c0    0.593276
+sex_hoh,,,,,,,,"[c0   -4.110469
+Name: coef, dtype: float64, c0   -1.982389
+Name: t, dtype: float64, c0    0.047457
 Name: P>|t|, dtype: float64]"

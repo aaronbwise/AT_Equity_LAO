@@ -1,70 +1,70 @@
 Total,Year,residence,region,wealth_q,eth_hoh,elderly_hoh,sex_hoh,mother_edu,anc_3_components,inst_delivery,bw_less_25,bw_equal_25,bw_available,low_bw,early_bf,wmweight
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,50.0,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,100,100,0.0,1.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,100,100,0.0,0.0,1,53.125,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Other Language,Elderly HoH: YES,Female,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,50.0,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,nan,100,100,0.0,1.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,nan,100,100,0.0,0.0,1,53.125,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Other Language,Elderly HoH: YES,Female,nan,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,53.125,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,1.0,0.0,1,53.125,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,1.0,0.0,1,53.125,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,53.125,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,1.0,0.0,1,53.125,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,1.0,0.0,1,53.125,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Hmong,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,100,0,0.0,0.0,1,0.0,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,100,100,1.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,nan,100,0,0.0,0.0,1,0.0,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,nan,100,100,1.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,nan,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,0.0,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,53.125,100,1.5763273785248606
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,1.0,1,53.125,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,53.125,100,1.5763273785248606
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,1.0,1,53.125,100,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,0.0,100,1.5763273785248606
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Urban,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,1.0,0.0,1,53.125,100,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,,100,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,1.0,0.0,1,53.125,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,0.0,100,1.5763273785248606
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Female,nan,0,0,1.0,0.0,1,53.125,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,0.0,100,1.5763273785248606
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,100,100,1.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,nan,100,100,1.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,nan,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,53.125,0,1.3746011390038972
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,0.0,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,nan,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,0.0,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,nan,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,0.0,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,0.0,100,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,0.0,0.0,1,2.083333333333333,100,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
@@ -75,8 +75,8 @@ Total,2006,Rural,North,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: N
 Total,2006,Rural,North,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,25.0,0,0.9298022182723785
-Total,2006,Urban,North,Richest,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,25.0,0,0.9298022182723785
+Total,2006,Urban,North,Richest,Other Language,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,1.0086224184748673
@@ -88,9 +88,9 @@ Total,2006,Rural,North,Poorest,Other Language,Elderly HoH: YES,Male,Mother Edu: 
 Total,2006,Rural,North,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
-Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,2.083333333333333,0,0.9298022182723785
-Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
+Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,2.083333333333333,0,0.9298022182723785
+Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
@@ -118,8 +118,8 @@ Total,2006,Rural,North,Poorest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,100,0.8814353101556875
 Total,2006,Rural,North,Rich,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,53.125,100,0.8814353101556875
-Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.8814353101556875
-Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,1.0,0.0,1,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.8814353101556875
+Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,nan,0,100,1.0,0.0,1,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
@@ -133,13 +133,13 @@ Total,2006,Rural,North,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None
 Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
 Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
 Total,2006,Urban,North,Richest,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,1.0,0.0,1,53.125,0,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,53.125,0,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,53.125,0,0.9298022182723785
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,53.125,0,0.8814353101556875
 Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,1.0,1,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
-Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.9298022182723785
+Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.9298022182723785
 Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,53.125,0,0.9298022182723785
 Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,100,0.9298022182723785
 Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,1.0,1,2.083333333333333,100,0.8814353101556875
@@ -207,7 +207,7 @@ Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,100
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,25.0,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.8814353101556875
+Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.8814353101556875
 Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,0.0,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,0.8814353101556875
@@ -280,7 +280,7 @@ Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,100,0.0,0.0,1,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,0.0,0,0.8814353101556875
-Total,2006,Rural,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Middle,Hmong,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Richest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,0.0,0.0,1,0.0,0,0.8814353101556875
 Total,2006,Rural,North,Richest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Richest,Hmong,Elderly HoH: YES,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,0.8814353101556875
@@ -311,7 +311,7 @@ Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
-Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,0.0,100,1.0086224184748673
+Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: YES,Male,nan,0,0,,,0,0.0,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,100,1.0086224184748673
 Total,2006,Rural,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.8814353101556875
@@ -333,12 +333,12 @@ Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,1.0086224184748673
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,0.0,0,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,0.0,0,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: YES,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
 Total,2006,Urban,North,Rich,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
-Total,2006,Urban,North,Richest,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,2.083333333333333,0,0.9298022182723785
+Total,2006,Urban,North,Richest,Hmong,Elderly HoH: NO,Male,nan,0,0,,,0,2.083333333333333,0,0.9298022182723785
 Total,2006,Urban,North,Richest,Hmong,Elderly HoH: YES,Male,Mother Edu: Primary,0,100,,,0,2.083333333333333,100,0.9298022182723785
 Total,2006,Urban,North,Rich,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,2.083333333333333,100,0.9298022182723785
 Total,2006,Urban,North,Richest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
@@ -354,21 +354,21 @@ Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,,,0,50.0,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.8814353101556875
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,2.083333333333333,0,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,2.083333333333333,0,0.9298022182723785
 Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,0,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,1.0,0.0,1,6.794871794871795,0,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
-Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
-Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: YES,Male,Mother Edu: Secondary,0,100,,,0,53.125,100,0.8814353101556875
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,1.0,0.0,1,6.794871794871795,0,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
+Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
+Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: YES,Male,nan,0,100,,,0,53.125,100,0.8814353101556875
 Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: YES,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,0,0.8814353101556875
-Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.8814353101556875
+Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,2.083333333333333,100,0.8814353101556875
+Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,nan,0,0,,,0,2.083333333333333,100,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
@@ -383,7 +383,7 @@ Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Rich,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: YES,Female,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,100,1.0086224184748673
@@ -407,8 +407,8 @@ Total,2006,Rural,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: YES,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,100,0.8814353101556875
 Total,2006,Rural,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,1.0086224184748673
-Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,2.083333333333333,0,1.0086224184748673
+Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,1.0086224184748673
+Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,2.083333333333333,0,1.0086224184748673
 Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
@@ -420,7 +420,7 @@ Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
-Total,2006,Urban,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
+Total,2006,Urban,North,Rich,Khmou,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
 Total,2006,Urban,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,25.0,0,0.9298022182723785
 Total,2006,Urban,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.9298022182723785
 Total,2006,Urban,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,25.0,0,0.9298022182723785
@@ -433,7 +433,7 @@ Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,0.8814353101556875
@@ -475,16 +475,16 @@ Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,2.083333333333333,100,0.8814353101556875
-Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.8814353101556875
+Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
-Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
-Total,2006,Rural,North,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.8814353101556875
+Total,2006,Rural,North,Middle,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,0.8814353101556875
@@ -508,13 +508,13 @@ Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,100,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,0.0,0,0.8814353101556875
-Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,1.0086224184748673
+Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.0086224184748673
-Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.0086224184748673
+Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,,,0,0.0,100,1.0086224184748673
-Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,2.083333333333333,0,0.8814353101556875
+Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,25.0,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: YES,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.8814353101556875
@@ -523,7 +523,7 @@ Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,
 Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
-Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,2.083333333333333,0,1.0086224184748673
+Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,2.083333333333333,0,1.0086224184748673
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,50.0,100,0.8814353101556875
@@ -535,33 +535,33 @@ Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,
 Total,2006,Rural,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
-Total,2006,Urban,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,1.0,1,6.794871794871795,100,0.9298022182723785
-Total,2006,Urban,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
-Total,2006,Urban,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,2.083333333333333,0,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
+Total,2006,Urban,North,Middle,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,1.0,1,6.794871794871795,100,0.9298022182723785
+Total,2006,Urban,North,Middle,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
+Total,2006,Urban,North,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,2.083333333333333,0,0.9298022182723785
 Total,2006,Urban,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,100,0.9298022182723785
-Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,1.0,0.0,1,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,1.0,0.0,1,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Female,nan,0,0,,,0,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Middle,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,,,0,2.083333333333333,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,1.0086224184748673
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,50.0,0,1.0086224184748673
 Total,2006,Rural,North,Rich,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,53.125,100,0.9298022182723785
-Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,53.125,100,0.9298022182723785
+Total,2006,Urban,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.9298022182723785
 Total,2006,Urban,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
-Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
+Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Female,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.9298022182723785
 Total,2006,Urban,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.9298022182723785
 Total,2006,Urban,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.9298022182723785
 Total,2006,Urban,North,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.9298022182723785
 Total,2006,Urban,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.9298022182723785
-Total,2006,Urban,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.9298022182723785
+Total,2006,Urban,North,Middle,Hmong,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.9298022182723785
 Total,2006,Urban,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.9298022182723785
-Total,2006,Urban,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.9298022182723785
+Total,2006,Urban,North,Poor,Hmong,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.9298022182723785
 Total,2006,Urban,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,,,0,6.794871794871795,100,0.9298022182723785
-Total,2006,Rural,North,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,1.0,0.0,1,53.125,100,0.8814353101556875
+Total,2006,Rural,North,Middle,Hmong,Elderly HoH: NO,Male,nan,0,0,1.0,0.0,1,53.125,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.8814353101556875
@@ -587,7 +587,7 @@ Total,2006,Rural,North,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: P
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.8814353101556875
-Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,100,1.0086224184748673
+Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.0086224184748673
 Total,2006,Rural,North,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.0086224184748673
 Total,2006,Rural,North,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.0086224184748673
@@ -626,26 +626,26 @@ Total,2006,Urban,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0
 Total,2006,Urban,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.9298022182723785
 Total,2006,Urban,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.9298022182723785
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
-Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,53.125,100,0.8814353101556875
+Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,53.125,100,0.8814353101556875
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.8814353101556875
-Total,2006,Rural,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,2.083333333333333,0,0.8814353101556875
-Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,100,0.8814353101556875
+Total,2006,Rural,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,2.083333333333333,0,0.8814353101556875
+Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,0.0,1.0,1,6.794871794871795,100,0.8814353101556875
-Total,2006,Rural,North,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,25.0,0,0.8814353101556875
-Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,53.125,100,0.8814353101556875
+Total,2006,Rural,North,Richest,Lao,Elderly HoH: YES,Male,nan,0,0,0.0,1.0,1,6.794871794871795,100,0.8814353101556875
+Total,2006,Rural,North,Richest,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,25.0,0,0.8814353101556875
+Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,53.125,100,0.8814353101556875
 Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,2.083333333333333,0,0.8814353101556875
 Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.8814353101556875
-Total,2006,Rural,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,2.083333333333333,0,0.8814353101556875
-Total,2006,Rural,North,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.8814353101556875
+Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.8814353101556875
+Total,2006,Rural,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,2.083333333333333,0,0.8814353101556875
+Total,2006,Rural,North,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,North,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
-Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
+Total,2006,Rural,North,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,6.794871794871795,0,0.8814353101556875
 Total,2006,Rural,North,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,100,0.8814353101556875
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
@@ -657,15 +657,15 @@ Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,1.3746011390038972
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,2.083333333333333,100,1.3746011390038972
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Female,nan,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Hmong,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,2.083333333333333,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
@@ -687,7 +687,7 @@ Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,100,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,100,1.3746011390038972
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,1.3746011390038972
@@ -696,38 +696,38 @@ Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE
 Total,2006,Rural,Central,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,100,1.3746011390038972
-Total,2006,Rural,Central,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,1.0,1,53.125,100,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,0,1.3746011390038972
+Total,2006,Rural,Central,Middle,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,1.0,1,53.125,100,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,0,1.3746011390038972
 Total,2006,Rural,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,1.3746011390038972
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: YES,Female,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,2.083333333333333,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,0,0.0,0.0,1,2.083333333333333,100,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: YES,Female,nan,0,0,0.0,0.0,1,2.083333333333333,100,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,1.3746011390038972
 Total,2006,Rural,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,1.3746011390038972
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,0.0,100,1.5763273785248606
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,0.0,100,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.5763273785248606
 Total,2006,Urban,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,1.5763273785248606
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,0.0,100,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,nan,0,100,0.0,0.0,1,0.0,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,1.8108339309999433
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
@@ -740,11 +740,11 @@ Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0
 Total,2006,Rural,Central,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.5763273785248606
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,100,0.0,1.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,nan,0,100,0.0,1.0,1,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,100,1.3746011390038972
@@ -753,12 +753,12 @@ Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Female,Mother Edu: None/ECE,0,
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Khmou,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,53.125,0,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,53.125,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
@@ -766,18 +766,18 @@ Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: YES,Male,nan,100,100,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.5763273785248606
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,25.0,0,1.8108339309999433
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Poor,Khmou,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,50.0,0,1.8108339309999433
 Total,2006,Rural,Central,Poorest,Khmou,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.8108339309999433
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,0,1.3746011390038972
@@ -786,15 +786,15 @@ Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,1.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,1.0,1,6.794871794871795,100,1.5763273785248606
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: None/ECE,0,0,,,0,53.125,0,1.3746011390038972
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,1.0,1,53.125,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,1.0,1,53.125,100,1.5763273785248606
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Middle,Other Language,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Middle,Other Language,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,1.5763273785248606
 Total,2006,Urban,Central,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,1.5763273785248606
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Female,nan,0,0,,,0,6.794871794871795,0,1.5763273785248606
 Total,2006,Rural,Central,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
@@ -843,15 +843,15 @@ Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu:
 Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,1.8108339309999433
 Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.8108339309999433
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,1.0,0.0,1,50.0,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,1.0,0.0,1,50.0,100,1.5763273785248606
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,0.0,0,1.8108339309999433
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
-Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.8108339309999433
+Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.8108339309999433
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,1.8108339309999433
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,1.8108339309999433
@@ -868,25 +868,25 @@ Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu:
 Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,50.0,0,1.8108339309999433
 Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,1.8108339309999433
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,1.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,0,,,0,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,0,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,0,,,0,6.794871794871795,100,1.5763273785248606
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,1.5763273785248606
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,53.125,0,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,53.125,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,0,1.5763273785248606
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,53.125,0,1.3746011390038972
+Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,53.125,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.3746011390038972
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Female,nan,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,25.0,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Female,Mother Edu: Primary,0,0,,,0,0.0,0,1.3746011390038972
-Total,2006,Rural,Central,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,53.125,100,1.3746011390038972
+Total,2006,Rural,Central,Middle,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,53.125,100,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: YES,Female,Mother Edu: Primary,100,100,1.0,0.0,1,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
@@ -929,9 +929,9 @@ Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,
 Total,2006,Rural,Central,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
-Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,50.0,0,1.8108339309999433
-Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,0,1.3746011390038972
+Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,50.0,0,1.8108339309999433
+Total,2006,Rural,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,0.0,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,6.794871794871795,0,1.3746011390038972
@@ -956,7 +956,7 @@ Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: YES,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
-Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,0.0,0,1.8108339309999433
+Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,0.0,0,1.8108339309999433
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.8108339309999433
@@ -977,7 +977,7 @@ Total,2006,Rural,Central,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: 
 Total,2006,Rural,Central,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Rural,Central,Poor,Other Language,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.8108339309999433
 Total,2006,Urban,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,1.5763273785248606
-Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,0,,,0,6.794871794871795,100,1.5763273785248606
+Total,2006,Urban,Central,Richest,Lao,Elderly HoH: NO,Male,nan,100,0,,,0,6.794871794871795,100,1.5763273785248606
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
@@ -989,10 +989,10 @@ Total,2006,Rural,Central,Poor,Lao,Elderly HoH: YES,Male,Mother Edu: None/ECE,0,0
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,100,,,0,50.0,0,1.3746011390038972
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,1.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,1.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,1.0,0.0,1,2.083333333333333,0,0.5457551569573516
-Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,53.125,100,0.5212721060381356
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,1.0,1,6.794871794871795,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,1.0,1,6.794871794871795,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,1.0,0.0,1,2.083333333333333,0,0.5457551569573516
+Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Female,nan,0,100,0.0,0.0,1,53.125,100,0.5212721060381356
 Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Female,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1089,10 +1089,10 @@ Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,25.0,0,0.5212721060381356
 Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Female,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1105,7 +1105,7 @@ Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1113,11 +1113,11 @@ Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,1.0,1,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,0,0.5212721060381356
+Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Richest,Lao,Elderly HoH: YES,Female,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,100,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1132,12 +1132,12 @@ Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1171,7 +1171,7 @@ Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: N
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,0,0.5212721060381356
-Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,53.125,0,0.5212721060381356
+Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,nan,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Other Language,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1184,11 +1184,11 @@ Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: N
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Female,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5457551569573516
 Total,2006,Urban,South,Rich,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,100,0.5457551569573516
 Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.5212721060381356
@@ -1227,15 +1227,15 @@ Total,2006,Urban,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: No
 Total,2006,Urban,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
-Total,2006,Urban,South,Poor,Other Language,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Poor,Other Language,Elderly HoH: NO,Female,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,2.083333333333333,100,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,2.083333333333333,100,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,53.125,0,0.5212721060381356
+Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1245,33 +1245,33 @@ Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: No
 Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,1.0,0.0,1,53.125,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,25.0,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: YES,Female,nan,0,100,0.0,0.0,1,2.083333333333333,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,1.0,0.0,1,53.125,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,25.0,0,0.5457551569573516
 Total,2006,Urban,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,25.0,0,0.5457551569573516
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Female,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Female,nan,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,,100,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,100,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,100,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,0,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,0,,,0,0.0,100,0.5457551569573516
-Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,100,0,0.0,0.0,1,6.794871794871795,100,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.5212721060381356
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Female,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: YES,Male,nan,100,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,100,0,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Female,nan,0,100,0.0,0.0,1,6.794871794871795,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,100,0,,,0,0.0,100,0.5457551569573516
+Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Female,nan,100,0,0.0,0.0,1,6.794871794871795,100,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,0.8380149669923138
-Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,50.0,0,0.5212721060381356
+Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,50.0,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,25.0,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.5212721060381356
@@ -1282,10 +1282,10 @@ Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Female,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.8380149669923138
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.8380149669923138
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8380149669923138
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.8380149669923138
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1298,27 +1298,27 @@ Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0
 Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,100,0.0,1.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,,,0,25.0,0,0.5457551569573516
-Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Female,nan,0,0,,,0,25.0,0,0.5457551569573516
+Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,100,0.5212721060381356
-Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Female,Mother Edu: Secondary,0,100,0.0,1.0,1,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Female,nan,0,100,0.0,1.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,1.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
-Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,0.0,1.0,1,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,0.0,1.0,1,6.794871794871795,0,0.5457551569573516
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,0,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,100,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
@@ -1326,7 +1326,7 @@ Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Female,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,100,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,100,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,100,100,0.0,0.0,1,2.083333333333333,0,0.5212721060381356
@@ -1361,14 +1361,14 @@ Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: P
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
-Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,0.5212721060381356
+Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Other Language,Elderly HoH: YES,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1379,12 +1379,12 @@ Total,2006,Rural,South,Rich,Other Language,Elderly HoH: NO,Male,Mother Edu: None
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5457551569573516
-Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,25.0,0,0.5457551569573516
+Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,25.0,0,0.5457551569573516
 Total,2006,Urban,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,100,0.0,1.0,1,25.0,0,0.5457551569573516
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,0.5212721060381356
@@ -1395,9 +1395,9 @@ Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,53.125,0,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1408,19 +1408,19 @@ Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,50.0,0,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,100,0.0,0.0,1,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8380149669923138
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,2.083333333333333,0,0.8380149669923138
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8380149669923138
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1433,33 +1433,33 @@ Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Urban,South,Rich,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5457551569573516
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Urban,South,Rich,Lao,Elderly HoH: YES,Female,nan,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Richest,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: YES,Female,Mother Edu: Secondary,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: YES,Female,nan,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,53.125,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Rich,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8380149669923138
-Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,2.083333333333333,0,0.8380149669923138
+Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,2.083333333333333,0,0.8380149669923138
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,25.0,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,25.0,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1488,7 +1488,7 @@ Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,100,0.8380149669923138
-Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,100,0,,,0,6.794871794871795,0,0.8380149669923138
+Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,nan,100,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
@@ -1505,7 +1505,7 @@ Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Urban,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5457551569573516
@@ -1524,10 +1524,10 @@ Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
@@ -1538,9 +1538,9 @@ Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
-Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.8380149669923138
+Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Female,Mother Edu: Primary,0,100,0.0,1.0,1,53.125,100,0.8380149669923138
-Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,53.125,0,0.8380149669923138
+Total,2006,Rural,South,Poorest,Lao,Elderly HoH: NO,Male,nan,0,0,,,0,53.125,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,2.083333333333333,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
@@ -1559,15 +1559,15 @@ Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,0.0,0.0,1,6.794871794871795,0,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
 Total,2006,Urban,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,0,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,0,0.5457551569573516
 Total,2006,Urban,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5457551569573516
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Middle,Lao,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,100,0,0.0,0.0,1,6.794871794871795,100,0.5212721060381356
-Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
+Total,2006,Urban,South,Richest,Lao,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.5457551569573516
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: YES,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Rich,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
@@ -1576,20 +1576,20 @@ Total,2006,Rural,South,Poor,Other Language,Elderly HoH: YES,Male,Mother Edu: Pri
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Lao,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,2.083333333333333,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.5212721060381356
+Total,2006,Rural,South,Middle,Lao,Elderly HoH: YES,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,53.125,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,2.083333333333333,100,0.5212721060381356
-Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,1.0,0.0,1,53.125,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,2.083333333333333,100,0.5212721060381356
+Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,nan,0,100,1.0,0.0,1,53.125,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
-Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Poor,Other Language,Elderly HoH: NO,Male,nan,0,100,0.0,0.0,1,6.794871794871795,0,0.5212721060381356
+Total,2006,Rural,South,Middle,Other Language,Elderly HoH: NO,Male,nan,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8380149669923138
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: YES,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,0.8380149669923138
@@ -1612,12 +1612,12 @@ Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: P
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: YES,Female,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,0.5212721060381356
 Total,2006,Rural,South,Poorest,Other Language,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,100,0.5212721060381356
-Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: YES,Male,Mother Edu: Secondary,0,0,,,0,6.794871794871795,100,1.3746011390038972
+Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: YES,Male,nan,0,0,,,0,6.794871794871795,100,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poorest,Hmong,Elderly HoH: NO,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Poor,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,0.0,0.0,1,6.794871794871795,100,1.3746011390038972
-Total,2006,Rural,Central,Rich,Hmong,Elderly HoH: NO,Female,Mother Edu: Secondary,0,0,,,0,6.794871794871795,0,1.3746011390038972
+Total,2006,Rural,Central,Rich,Hmong,Elderly HoH: NO,Female,nan,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Middle,Hmong,Elderly HoH: NO,Male,Mother Edu: None/ECE,0,0,,,0,6.794871794871795,0,1.3746011390038972
 Total,2006,Rural,Central,Rich,Hmong,Elderly HoH: YES,Male,Mother Edu: Primary,0,0,,,0,6.794871794871795,0,1.3746011390038972

@@ -352,11 +352,14 @@ def update_flag_value(df, country, year):
         df['hazflag'] = np.where(df['hazflag'].eq(1), 'Error flag', 'No error')
         df['whzflag'] = np.where(df['whzflag'].eq(1), 'Error flag', 'No error')
 
+        return df
+
     elif country == 'LAO' and year == '2000':
-        df['flen'] = df['flen'].replace({1: 'Error flag', 0: 'No error'})
-        df['fwei'] = df['fwei'].replace({1: 'Error flag', 0: 'No error'})
+
+        df['FLAG_HAZ'] = np.where(df.Flag_WHO.str.contains("HAZ", na=False), 'Error flag', 'No error')
+        df['FLAG_WHZ'] = np.where(df.Flag_WHO.str.contains("WHZ", na=False), 'Error flag', 'No error')
+
+        return df
     
     else:
         pass
-
-    return df
