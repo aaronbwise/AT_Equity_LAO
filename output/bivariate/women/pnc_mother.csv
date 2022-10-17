@@ -11,9 +11,9 @@ mother_edu_biv,,,"[c0    10.908829
 Name: coef, dtype: float64, c0    5.283543
 Name: t, dtype: float64, c0    1.297074e-07
 Name: P>|t|, dtype: float64]",,,,
-wealth_q,,,,"[c0   -8.068419
-Name: coef, dtype: float64, c0   -3.04737
-Name: t, dtype: float64, c0    0.002315
+wealth_q,,,,"[c0   -5.852252
+Name: coef, dtype: float64, c0   -2.343344
+Name: t, dtype: float64, c0    0.019163
 Name: P>|t|, dtype: float64]",,,
 eth_hoh_biv,,,,,"[c0   -0.732264
 Name: coef, dtype: float64, c0   -0.367922

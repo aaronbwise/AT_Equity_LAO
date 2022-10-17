@@ -299,7 +299,7 @@ def freq_concat(country, recode, dep_vars, year_list, index_vals):
             output.to_excel(xlwriter, sheet_name=var)
 
         elif len(list_of_columns) == 1:
-            output = pd.DataFrame(list_of_columns[0], columns=[var])
+            output = pd.DataFrame(list_of_columns[0])
             output = output.fillna("---")
             # print(f"output type is: {type(output)} \n output length is: {len(output)} \n index_vals length is: {len(index_vals)} \n (pd.concat(list_of_columns) is:\n {output}")
             output = output.loc[index_vals, :]
