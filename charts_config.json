@@ -107,7 +107,7 @@
         "mdd_ch": [0, 100],
         "mmf_ch": [0, 100],
         "mad_ch": [0, 100],
-        "stunting_ch": [0, 70],
+        "stunting_ch": [0, 80],
         "wasting_ch": [0, 30],
         "overweight_ch": [0, 10]
       }

@@ -1,10 +1,7 @@
 import json
 from pathlib import Path
+import itertools
 
-import numpy as np
-import pandas as pd
-
-# from matplotlib import rcParams, cycler
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 from matplotlib.ticker import FormatStrFormatter
@@ -13,7 +10,11 @@ from matplotlib.ticker import FormatStrFormatter
 import seaborn as sns
 
 ### Set seaborn parameters
-sns.set_theme(style="whitegrid", palette="pastel")
+sns.set_theme(style="white")
+
+colors = ["#006269", "#99C352", "#D35355", "#E09323", "#7DC5D2"]
+sns.set_palette(sns.color_palette(colors))
+
 
 from aw_analytics import mean_wt
 
@@ -49,44 +50,51 @@ def generate_charts(df, var_dep, ind_var, recode):
 
     year_range = year_list[-(num_years):]
 
-    print(f"year_range is: {year_range} and num_years is: {num_years}")
+    print(f"year_range is: {year_range} and num_years is: {num_years} and var_dep is: {var_dep} and ind_var is: {ind_var}")
 
     fig, ax = plt.subplots(figsize=(7, 5))
 
     plot_1_data = df.groupby(['Year', ind_var]).apply(mean_wt, var_dep, wt = weight).to_frame(var_dep)
     plot_2_data = df.groupby(['Year', 'Total']).apply(mean_wt, var_dep, wt = weight).to_frame(var_dep)
 
+    print(f"plot_1_data is: \n {plot_1_data}")
+
+    markers = ["o", "^", "d", "s", "p", "D"]
+
     ax1 = sns.lineplot(
         x = 'Year',
         y = var_dep,
         data = plot_1_data,
         hue = ind_var,
+        style = ind_var,
+        dashes=False,
         hue_order = hue_order,
-        palette = "bright",
-        linewidth = 3,
-        marker='o'
+        linewidth = 2,
+        markers = {hue_order[i]: markers[i] for i in range(len(hue_order))},
+        markersize = 6
         )
 
     leg1 = ax.legend(bbox_to_anchor=(1.04, 1.0), fontsize=8, loc="upper left")
+    leg1.get_frame().set_linewidth(0.0)
 
     ax2 = sns.lineplot(
         x = 'Year',
         y = var_dep,
         data = plot_2_data,
-        palette = "bright",
         linewidth = 1,
-        color='grey',
-        marker='o'
+        color="#929591",
+        marker=''
         )
 
 
     # Title/subtitle settings
     title_string = f'{titles_dict[var_dep]} {ind_vars_dict[ind_var]}'
-    ax.set_title(title_string, loc="center", fontsize = 11, wrap=True)
+    ax.set_title(title_string, loc="center", fontsize = 10, wrap=True)
 
-    custom_line = [Line2D([0], [0], color='grey', lw=2)]
+    custom_line = [Line2D([0], [0], color='#929591', lw=2)]
 
-    leg2 = ax.legend(custom_line, ['Total'], bbox_to_anchor=(1.04, 0.7), fontsize=8, loc="upper left")
+    leg2 = ax.legend(custom_line, ['Overall'], bbox_to_anchor=(1.04, 0.7), fontsize=8, loc="upper left")
+    leg2.get_frame().set_linewidth(0.0)
 
     ax.add_artist(leg1)
 
@@ -94,14 +102,22 @@ def generate_charts(df, var_dep, ind_var, recode):
     y_limits = config_data[recode]['y_limits'][var_dep]
     plt.ylim(y_limits)
 
-    # x_limits = [year_range[0], year_range[-1]]
-    # plt.xlim(x_limits)
 
     # Axis labels
-    ax.set_xlabel('', fontsize = 10)
+    ax.set_xlabel('')
     ax.set_ylabel('Percentage (%)', fontsize = 10)
 
     ax.xaxis.set_major_formatter(FormatStrFormatter('%.0f'))
+
+    ax.spines.right.set_visible(False)
+    ax.spines.top.set_visible(False)
+    ax.spines.left.set_color("lightgrey")
+    ax.spines.bottom.set_color("lightgrey")
+
+
+    ax.tick_params(left="on")
+    ax.tick_params(axis="x", labelsize=9)
+    ax.tick_params(axis="y", labelsize=9, direction="in", color="lightgrey")
 
     out_fn = var_dep.upper() + "_" + ind_var + ".svg"
     out_path = Path.cwd() / "output" / "charts" / recode / out_fn

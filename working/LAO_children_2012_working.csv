@@ -17,7 +17,7 @@ Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mothe
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,100,100,100,100,100,0,100,,100.0,3.0,,,,0,0,0,0,0.0,0.0,0.0,0.0,3.6388977737248758
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,100,0,0,0,0,0,100,0,100,0.0,,3.0,,,,0,0,0,0,,0.0,0.0,0.0,3.6388977737248758
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,6.0,6.0,,5.0,0,0,100,0,,100.0,0.0,0.0,3.6388977737248758
-Total,2012,Urban,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,2.0,0,0,0,0,,0.0,0.0,0.0,2.949692212511538
+Total,2012,Urban,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,2.0,0,0,0,0,,0.0,0.0,0.0,2.949692212511538
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,4.0,,3.0,3.0,0,0,100,0,,0.0,0.0,0.0,2.949692212511538
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,6.0,5.0,2.0,4.0,0,0,100,0,,,,,2.949692212511538
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,4.0,4.0,,,0,0,100,0,,,,,2.949692212511538
@@ -25,7 +25,7 @@ Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Female,CH Sex: Female,
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Female,CH Sex: Male,Mother Edu: Secondary,100,0,0,0,0,0,100,0,0,0.0,,7.0,,,3.0,0,0,100,0,,0.0,0.0,0.0,2.949692212511538
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,3.0,4.0,1.0,3.0,0,0,100,0,,0.0,0.0,100.0,2.949692212511538
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,100,100,100,100,0,0,0,,0.0,4.0,,,2.0,0,0,100,100,100.0,100.0,0.0,0.0,2.949692212511538
-Total,2012,Urban,Central,Rich,"Other, Missing, DK",Elderly HoH: NO,Female,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,3.0,3.0,,1.0,0,0,100,100,100.0,0.0,0.0,0.0,1.8125856982960746
+Total,2012,Urban,Central,Rich,"Other, DK, Missing",Elderly HoH: NO,Female,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,3.0,3.0,,1.0,0,0,100,100,100.0,0.0,0.0,0.0,1.8125856982960746
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Female,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,100,0,0,,,2.0,2.0,1.0,1.0,0,0,100,0,,0.0,0.0,0.0,1.8125856982960746
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Female,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.8125856982960746
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,3.0,3.0,1.0,1.0,0,0,100,0,,0.0,0.0,100.0,1.8125856982960746
@@ -247,7 +247,7 @@ Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mot
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.913454502418796
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,1.0,1.0,,3.0,0,0,100,0,,0.0,0.0,0.0,1.913454502418796
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,100,0,0,0,0,0,0,0,0,0.0,,8.0,,,1.0,0,0,100,0,,0.0,0.0,0.0,2.0077577780633065
-Total,2012,Urban,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,5.0,2.0,,2.0,0,0,100,0,,0.0,0.0,0.0,2.0077577780633065
+Total,2012,Urban,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,5.0,2.0,,2.0,0,0,100,0,,0.0,0.0,0.0,2.0077577780633065
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,100,100,100,100,0,0,0,,0.0,6.0,6.0,1.0,1.0,0,0,100,100,100.0,0.0,0.0,0.0,2.0077577780633065
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Higher,100,0,0,0,0,0,100,0,0,0.0,,,,,2.0,0,0,0,0,,0.0,0.0,0.0,2.0077577780633065
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,3.0,,,3.0,0,0,100,0,,0.0,0.0,0.0,2.0077577780633065
@@ -358,7 +358,7 @@ Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Moth
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,5.0,,,,0,0,100,0,,0.0,0.0,0.0,1.9474487259399378
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,0.0,1.9474487259399378
 Total,2012,Urban,Central,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,2.0,,,0,0,0,0,,0.0,0.0,0.0,1.9474487259399378
-Total,2012,Urban,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,2.0,,2.0,3.0,0,0,100,100,100.0,100.0,0.0,0.0,1.9474487259399378
+Total,2012,Urban,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,2.0,,2.0,3.0,0,0,100,100,100.0,100.0,0.0,0.0,1.9474487259399378
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Female,Mother Edu: Secondary,100,0,0,0,0,0,100,0,0,0.0,,5.0,,,2.0,0,0,100,0,,0.0,0.0,0.0,1.9474487259399378
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,4.0,,,3.0,0,0,100,0,,100.0,0.0,0.0,1.9474487259399378
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,100,0,0,0,0,0,100,0,100,0.0,,,,,,0,0,0,0,,0.0,0.0,0.0,1.9474487259399378
@@ -1005,8 +1005,8 @@ Total,2012,Rural,North,Poorest,Chinese-Tibetan,Elderly HoH: NO,Male,CH Sex: Fema
 Total,2012,Rural,North,Poor,Chinese-Tibetan,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.5398545287487692
 Total,2012,Rural,North,Poorest,Chinese-Tibetan,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.5398545287487692
 Total,2012,Rural,North,Poorest,Chinese-Tibetan,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,100,0,0,100,100,100,0,0,,,,,,3.0,100,0,0,0,100.0,0.0,0.0,0.0,0.5398545287487692
-Total,2012,Rural,North,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,100,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.5398545287487692
-Total,2012,Rural,North,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,100,0,0,0,0,0,100,0,0,0.0,,,,,2.0,0,0,0,0,,0.0,0.0,0.0,0.5398545287487692
+Total,2012,Rural,North,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,100,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.5398545287487692
+Total,2012,Rural,North,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,100,0,0,0,0,0,100,0,0,0.0,,,,,2.0,0,0,0,0,,0.0,0.0,0.0,0.5398545287487692
 Total,2012,Rural,North,Poor,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.6246507581821695
 Total,2012,Rural,North,Poor,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.6246507581821695
 Total,2012,Rural,North,Poor,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Secondary,0,0,100,0,100,100,100,0,0,,,,,,4.0,0,100,100,0,100.0,0.0,0.0,0.0,0.6246507581821695
@@ -1150,7 +1150,7 @@ Total,2012,Rural,North,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother
 Total,2012,Rural,North,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.5630690029803916
 Total,2012,Rural,North,Rich,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.5630690029803916
 Total,2012,Rural,North,Rich,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: None/ECE,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,,,0.5630690029803916
-Total,2012,Rural,North,Poor,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.5630690029803916
+Total,2012,Rural,North,Poor,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.5630690029803916
 Total,2012,Rural,North,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,0,0,0,,0.0,4.0,,,3.0,0,0,100,100,100.0,0.0,100.0,0.0,0.5630690029803916
 Total,2012,Rural,North,Middle,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.5630690029803916
 Total,2012,Rural,North,Middle,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Female,Mother Edu: Secondary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,0.0,0.5630690029803916
@@ -1174,8 +1174,8 @@ Total,2012,Urban,North,Rich,Mon-Khmer,Elderly HoH: YES,Male,CH Sex: Female,Mothe
 Total,2012,Urban,North,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,100.0,0.0,0.6341020527837372
 Total,2012,Urban,North,Richest,Lao-Tai,Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,2.0,2.0,,3.0,0,0,100,0,,0.0,0.0,0.0,0.6341946900449182
 Total,2012,Urban,North,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,2.0,,,1.0,0,0,0,0,,100.0,0.0,0.0,0.6341946900449182
-Total,2012,Urban,North,Rich,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,0.6341946900449182
-Total,2012,Urban,North,Rich,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,0.0,0.6341946900449182
+Total,2012,Urban,North,Rich,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,0.6341946900449182
+Total,2012,Urban,North,Rich,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,0.0,0.6341946900449182
 Total,2012,Urban,North,Richest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,0,0,0,,0.0,5.0,5.0,,3.0,0,0,100,100,100.0,0.0,0.0,0.0,0.6341946900449182
 Total,2012,Urban,North,Richest,Chinese-Tibetan,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,2.0,2.0,,4.0,0,0,100,0,,0.0,0.0,0.0,0.6341946900449182
 Total,2012,Urban,North,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,0.6341946900449182
@@ -2485,8 +2485,8 @@ Total,2012,Urban,North,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother E
 Total,2012,Urban,North,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,1.0,,,0,0,0,0,,100.0,100.0,0.0,0.6046745210971946
 Total,2012,Urban,North,Poor,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,1.0,1.0,1.0,,0,0,0,0,,0.0,0.0,0.0,0.6046745210971946
 Total,2012,Urban,North,Poor,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,0.0,0.0,0.0,0.6046745210971946
-Total,2012,Urban,North,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.6046745210971946
-Total,2012,Urban,North,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,100,100,100,100,100,0,0,,100.0,,,,2.0,0,0,0,0,0.0,100.0,0.0,0.0,0.6046745210971946
+Total,2012,Urban,North,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.6046745210971946
+Total,2012,Urban,North,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,100,100,100,100,100,0,0,,100.0,,,,2.0,0,0,0,0,0.0,100.0,0.0,0.0,0.6046745210971946
 Total,2012,Urban,North,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,100,100,100,100,0,0,100,,0.0,,1.0,,,0,0,0,0,0.0,0.0,0.0,0.0,0.5503217551558736
 Total,2012,Urban,North,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,0.5503217551558736
 Total,2012,Urban,North,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,0.5503217551558736
@@ -2521,9 +2521,9 @@ Total,2012,Rural,North,Middle,Hmong-Mien,Elderly HoH: NO,Male,CH Sex: Female,Mot
 Total,2012,Rural,North,Poorest,Hmong-Mien,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,0.5378931613171808
 Total,2012,Rural,North,Poorest,Hmong-Mien,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,100,0,0,100,100,100,0,0,,,,,,3.0,100,0,0,0,100.0,0.0,0.0,0.0,0.5378931613171808
 Total,2012,Rural,North,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,1.0,,,0,0,0,0,,100.0,0.0,0.0,0.5378931613171808
-Total,2012,Rural,North,Middle,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,0,0,100,,0.0,,,,,0,0,0,0,0.0,0.0,0.0,100.0,0.5862873197976781
-Total,2012,Rural,North,Middle,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,0.0,0.5862873197976781
-Total,2012,Rural,North,Middle,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,100,0,0,,100.0,,2.0,,3.0,0,100,100,0,100.0,100.0,0.0,0.0,0.5862873197976781
+Total,2012,Rural,North,Middle,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,0,0,100,,0.0,,,,,0,0,0,0,0.0,0.0,0.0,100.0,0.5862873197976781
+Total,2012,Rural,North,Middle,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,0.0,0.5862873197976781
+Total,2012,Rural,North,Middle,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,100,0,0,,100.0,,2.0,,3.0,0,100,100,0,100.0,100.0,0.0,0.0,0.5862873197976781
 Total,2012,Rural,North,Middle,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.5862873197976781
 Total,2012,Rural,North,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,0.5862873197976781
 Total,2012,Rural,North,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,0.0,0.5862873197976781
@@ -3658,7 +3658,7 @@ Total,2012,Urban,North,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother E
 Total,2012,Urban,North,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,100.0,0.0,1.1272028327154269
 Total,2012,Urban,North,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,100,100,100,100,0,0,100,,0.0,,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.1272028327154269
 Total,2012,Urban,North,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,100,100,100,100,0,0,0,,0.0,,,,2.0,0,0,0,0,0.0,0.0,0.0,0.0,0.7953064051079606
-Total,2012,Urban,North,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,3.0,3.0,,,0,0,100,0,,0.0,0.0,0.0,0.7953064051079606
+Total,2012,Urban,North,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,3.0,3.0,,,0,0,100,0,,0.0,0.0,0.0,0.7953064051079606
 Total,2012,Urban,North,Richest,Lao-Tai,Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Higher,0,0,0,0,0,100,0,0,100,,,2.0,,,,0,0,0,0,,0.0,0.0,0.0,0.7953064051079606
 Total,2012,Urban,North,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Higher,0,100,0,0,100,100,100,0,100,,,,,,,0,0,0,0,0.0,0.0,0.0,0.0,0.7953064051079606
 Total,2012,Urban,North,Rich,Hmong-Mien,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,0.7953064051079606
@@ -5586,12 +5586,12 @@ Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mot
 Total,2012,Rural,Central,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,0,100,100,100,0,0,,,,,,1.0,0,0,0,0,0.0,0.0,0.0,0.0,1.4489957297577976
 Total,2012,Rural,Central,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,100,0,0,100,100,100,0,100,,,,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.4489957297577976
 Total,2012,Rural,Central,Poor,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,1.4489957297577976
-Total,2012,Rural,Central,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,,,,0.6822357660844691
-Total,2012,Rural,Central,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,,,,0.6822357660844691
+Total,2012,Rural,Central,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,,,,0.6822357660844691
+Total,2012,Rural,Central,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,,,,0.6822357660844691
 Total,2012,Rural,Central,Middle,Mon-Khmer,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,,,2.0,0,0,0,0,,100.0,100.0,0.0,0.6822357660844691
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,,,,0.6822357660844691
 Total,2012,Rural,Central,Poor,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.6822357660844691
-Total,2012,Rural,Central,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,0.6822357660844691
+Total,2012,Rural,Central,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,0.6822357660844691
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.6822357660844691
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,,,,2.0,0,0,0,0,0.0,100.0,0.0,0.0,0.6822357660844691
 Total,2012,Rural,Central,Poor,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,1.3323893341365791
@@ -6080,8 +6080,8 @@ Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mothe
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Female,Mother Edu: Higher,100,0,0,0,0,0,100,0,100,0.0,,10.0,,,,0,0,100,0,,0.0,0.0,0.0,0.8841739513753025
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Female,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,3.0,1.0,,4.0,0,0,100,0,,0.0,0.0,0.0,0.8841739513753025
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,7.0,7.0,,3.0,0,0,100,0,,100.0,0.0,0.0,0.9166287491936419
-Total,2012,Urban,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,6.0,2.0,4.0,0,0,100,0,,0.0,0.0,0.0,0.9166287491936419
-Total,2012,Urban,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,100,100,100,100,0,0,0,,0.0,,10.0,,3.0,0,0,100,100,100.0,100.0,0.0,0.0,0.9166287491936419
+Total,2012,Urban,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,6.0,2.0,4.0,0,0,100,0,,0.0,0.0,0.0,0.9166287491936419
+Total,2012,Urban,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,100,100,100,100,0,0,0,,0.0,,10.0,,3.0,0,0,100,100,100.0,100.0,0.0,0.0,0.9166287491936419
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,3.0,3.0,,3.0,0,0,100,0,,100.0,0.0,0.0,0.9166287491936419
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,2.0,,3.0,0,0,100,0,,100.0,0.0,0.0,0.9166287491936419
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.9166287491936419
@@ -6406,7 +6406,7 @@ Total,2012,Rural,Central,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother
 Total,2012,Rural,Central,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,0.0,0.953941590065092
 Total,2012,Rural,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,1.0,,2.0,0,0,0,0,,100.0,0.0,0.0,0.953941590065092
 Total,2012,Rural,Central,Rich,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,6.0,,,5.0,0,0,100,100,100.0,100.0,0.0,0.0,0.953941590065092
-Total,2012,Rural,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,2.0,,2.0,4.0,0,0,100,0,,0.0,0.0,0.0,0.953941590065092
+Total,2012,Rural,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,2.0,,2.0,4.0,0,0,100,0,,0.0,0.0,0.0,0.953941590065092
 Total,2012,Rural,Central,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,1.0,,,4.0,0,0,100,0,,100.0,0.0,0.0,0.953941590065092
 Total,2012,Rural,Central,Poor,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,100.0,,,0.953941590065092
 Total,2012,Rural,Central,Middle,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,2.0,6.0,0,0,100,0,,100.0,0.0,0.0,0.953941590065092
@@ -6431,10 +6431,10 @@ Total,2012,Rural,Central,Poor,Hmong-Mien,Elderly HoH: NO,Male,CH Sex: Male,Mothe
 Total,2012,Rural,Central,Poor,Hmong-Mien,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,4.0,0,0,100,0,,100.0,0.0,0.0,0.49472940833614154
 Total,2012,Rural,Central,Middle,Hmong-Mien,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,4.0,0,0,100,0,,100.0,0.0,0.0,0.49472940833614154
 Total,2012,Rural,Central,Middle,Hmong-Mien,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,100,0,0,0,0,0,100,0,100,0.0,,,,,,0,0,0,0,,0.0,100.0,0.0,0.49472940833614154
-Total,2012,Rural,Central,Middle,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,1.0,,1.0,6.0,0,0,100,0,,0.0,0.0,0.0,0.9007965034800984
-Total,2012,Rural,Central,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,1.0,4.0,0,0,100,0,,100.0,0.0,0.0,0.9007965034800984
-Total,2012,Rural,Central,Rich,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,1.0,,,6.0,0,0,100,0,,100.0,0.0,100.0,0.9007965034800984
-Total,2012,Rural,Central,Rich,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,,,,8.0,0,0,100,100,100.0,,0.0,0.0,0.9007965034800984
+Total,2012,Rural,Central,Middle,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,1.0,,1.0,6.0,0,0,100,0,,0.0,0.0,0.0,0.9007965034800984
+Total,2012,Rural,Central,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,1.0,4.0,0,0,100,0,,100.0,0.0,0.0,0.9007965034800984
+Total,2012,Rural,Central,Rich,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,1.0,,,6.0,0,0,100,0,,100.0,0.0,100.0,0.9007965034800984
+Total,2012,Rural,Central,Rich,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,,,,8.0,0,0,100,100,100.0,,0.0,0.0,0.9007965034800984
 Total,2012,Rural,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.9007965034800984
 Total,2012,Rural,Central,Rich,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Primary,0,0,100,0,100,100,100,0,100,,,,,,,0,0,0,0,0.0,0.0,0.0,0.0,0.9007965034800984
 Total,2012,Rural,Central,Middle,Mon-Khmer,Elderly HoH: NO,Female,CH Sex: Female,Mother Edu: Primary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,100.0,0.0,0.8642536629435617
@@ -6770,7 +6770,7 @@ Total,2012,Urban,Central,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother
 Total,2012,Urban,Central,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,1.0,0,0,0,0,,0.0,0.0,0.0,0.6860762382943547
 Total,2012,Urban,Central,Poor,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,0.6860762382943547
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,2.0,,1.0,0,0,0,0,,0.0,0.0,0.0,0.6860762382943547
-Total,2012,Urban,Central,Middle,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,2.0,0,0,0,0,,100.0,0.0,0.0,0.6860762382943547
+Total,2012,Urban,Central,Middle,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,2.0,0,0,0,0,,100.0,0.0,0.0,0.6860762382943547
 Total,2012,Rural,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,100,0,0,0,0,0,100,0,0,0.0,,,,,2.0,0,0,0,0,,0.0,0.0,0.0,0.9372395095289958
 Total,2012,Rural,Central,Middle,Lao-Tai,Elderly HoH: YES,Female,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,2.0,0,0,0,0,,0.0,0.0,0.0,0.9372395095289958
 Total,2012,Rural,Central,Middle,Lao-Tai,Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Secondary,0,0,100,100,100,100,100,0,0,,100.0,1.0,1.0,1.0,,0,0,0,0,0.0,0.0,100.0,0.0,0.9372395095289958
@@ -6954,8 +6954,8 @@ Total,2012,Rural,Central,Poorest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mothe
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.9838931398585742
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,100,100,100,100,100,0,0,,100.0,,,,3.0,0,100,0,0,100.0,0.0,0.0,0.0,0.9838931398585742
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,100,0,0,,100.0,,,,5.0,0,100,100,0,100.0,0.0,0.0,0.0,0.9838931398585742
-Total,2012,Rural,Central,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.9838931398585742
-Total,2012,Rural,Central,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,100,0,100,100,100,0,0,,,,,,3.0,0,100,0,0,100.0,0.0,0.0,0.0,0.9838931398585742
+Total,2012,Rural,Central,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.9838931398585742
+Total,2012,Rural,Central,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,100,0,100,100,100,0,0,,,,,,3.0,0,100,0,0,100.0,0.0,0.0,0.0,0.9838931398585742
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.9838931398585742
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,100,0,0,,,,,,4.0,0,0,100,0,,100.0,0.0,0.0,0.9838931398585742
 Total,2012,Rural,Central,Poor,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,2.0,0,0,0,0,,100.0,0.0,0.0,0.9838931398585742
@@ -7005,8 +7005,8 @@ Total,2012,Urban,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mot
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,100,100,100,100,0,0,0,,0.0,2.0,4.0,,3.0,0,0,100,100,100.0,,0.0,0.0,0.8983949706785967
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,100,0,0,0,0,0,100,0,100,0.0,,,,,,0,0,0,0,,,0.0,0.0,0.8983949706785967
 Total,2012,Urban,Central,Poor,Mon-Khmer,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,100,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,0.8983949706785967
-Total,2012,Urban,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,1.0,,3.0,0,0,100,0,,100.0,0.0,0.0,0.8983949706785967
-Total,2012,Urban,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,100,0,0,,,,1.0,,3.0,0,100,100,0,100.0,0.0,0.0,0.0,0.8983949706785967
+Total,2012,Urban,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,1.0,,3.0,0,0,100,0,,100.0,0.0,0.0,0.8983949706785967
+Total,2012,Urban,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,100,0,0,,,,1.0,,3.0,0,100,100,0,100.0,0.0,0.0,0.0,0.8983949706785967
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,100,0,0,,,,,,5.0,0,100,100,0,100.0,0.0,0.0,0.0,0.8983949706785967
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,100,0,0,,,,,,4.0,0,0,100,0,,0.0,0.0,0.0,0.8066865797227559
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,5.0,0,0,100,0,,100.0,0.0,0.0,0.8066865797227559
@@ -7603,7 +7603,7 @@ Total,2012,Rural,Central,Poor,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother E
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Female,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,2.0,,,2.0,0,0,100,0,,0.0,,,1.507223779691543
 Total,2012,Urban,Central,Middle,Lao-Tai,Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Secondary,0,0,100,100,100,100,0,0,100,,0.0,3.0,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.507223779691543
 Total,2012,Urban,Central,Rich,Lao-Tai,Elderly HoH: NO,Female,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,1.0,,,,0,0,0,0,,100.0,0.0,0.0,1.507223779691543
-Total,2012,Urban,Central,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,100,0,0,,100.0,2.0,,2.0,1.0,0,0,100,0,0.0,0.0,0.0,0.0,1.507223779691543
+Total,2012,Urban,Central,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,100,0,0,,100.0,2.0,,2.0,1.0,0,0,100,0,0.0,0.0,0.0,0.0,1.507223779691543
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,0,,0.0,2.0,,1.0,2.0,0,0,100,100,100.0,100.0,0.0,0.0,1.507223779691543
 Total,2012,Urban,Central,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,100,,0.0,12.0,,,,0,0,100,0,0.0,0.0,0.0,0.0,1.507223779691543
 Total,2012,Urban,Central,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,1.507223779691543
@@ -8050,18 +8050,18 @@ Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,M
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,100,0,0,0,0,0,100,0,100,0.0,,,,,,0,0,0,0,,0.0,0.0,0.0,1.9441288757600783
 Total,2012,Rural,Central,Poor,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.9441288757600783
 Total,2012,Rural,Central,Poor,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,100,0,0,0,0,0,100,0,100,0.0,,,,,,0,0,0,0,,0.0,0.0,0.0,1.9441288757600783
-Total,2012,Rural,Central,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,100,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.9441288757600783
+Total,2012,Rural,Central,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,100,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.9441288757600783
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,1.0,,0,0,0,0,,0.0,0.0,0.0,1.9441288757600783
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,1.9441288757600783
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.9441288757600783
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,100,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.9441288757600783
-Total,2012,Rural,Central,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.9441288757600783
+Total,2012,Rural,Central,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.9441288757600783
 Total,2012,Rural,Central,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,100,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.9441288757600783
 Total,2012,Rural,Central,Poor,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,1.9441288757600783
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,0,0,0,,,3.0,,,4.0,0,0,100,100,100.0,0.0,0.0,0.0,0.45041165219470136
 Total,2012,Urban,South,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,0.45041165219470136
 Total,2012,Urban,South,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,100,0,0,,,,,,3.0,0,100,0,0,100.0,0.0,0.0,0.0,0.45041165219470136
-Total,2012,Urban,South,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,100,0,100,,,2.0,2.0,,,0,0,100,0,0.0,0.0,0.0,0.0,0.45041165219470136
+Total,2012,Urban,South,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,100,0,100,,,2.0,2.0,,,0,0,100,0,0.0,0.0,0.0,0.0,0.45041165219470136
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,3.0,3.0,,3.0,0,0,100,0,,0.0,0.0,0.0,0.45041165219470136
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Higher,0,0,100,100,100,100,100,0,0,,100.0,3.0,2.0,1.0,4.0,0,100,100,0,100.0,0.0,0.0,0.0,0.45041165219470136
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,,5.0,2.0,3.0,0,0,100,0,,0.0,0.0,0.0,0.45041165219470136
@@ -8107,9 +8107,9 @@ Total,2012,Rural,South,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mothe
 Total,2012,Rural,South,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,100,100,100,100,100,100,100,,100.0,,,,,0,0,0,0,0.0,,,,1.0770206744671018
 Total,2012,Rural,South,Middle,Mon-Khmer,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,0.0,0.0,0.0,1.0770206744671018
 Total,2012,Rural,South,Middle,Mon-Khmer,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: None/ECE,0,100,0,0,100,100,100,0,100,,,1.0,,,,0,0,0,0,0.0,100.0,100.0,0.0,1.0770206744671018
-Total,2012,Rural,South,Middle,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,3.0,,3.0,0,0,100,0,,100.0,0.0,0.0,1.0770206744671018
-Total,2012,Rural,South,Middle,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.0770206744671018
-Total,2012,Rural,South,Middle,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,100,100,0,,,,,,1.0,0,0,0,0,0.0,100.0,0.0,0.0,1.0770206744671018
+Total,2012,Rural,South,Middle,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,3.0,,3.0,0,0,100,0,,100.0,0.0,0.0,1.0770206744671018
+Total,2012,Rural,South,Middle,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.0770206744671018
+Total,2012,Rural,South,Middle,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,0,100,100,100,100,0,,,,,,1.0,0,0,0,0,0.0,100.0,0.0,0.0,1.0770206744671018
 Total,2012,Rural,South,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,100,100,100,100,100,0,0,,100.0,,,,3.0,0,100,0,0,100.0,100.0,0.0,0.0,3.108679092992925
 Total,2012,Rural,South,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,3.108679092992925
 Total,2012,Rural,South,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,100,0,0,0,0,0,100,100,0,0.0,,,,,1.0,0,0,0,0,,0.0,0.0,0.0,3.108679092992925
@@ -8299,17 +8299,17 @@ Total,2012,Rural,South,Poorest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mothe
 Total,2012,Rural,South,Poorest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,100,0,0,0,0,0,100,0,0,0.0,,,,,2.0,0,0,0,0,,100.0,0.0,0.0,3.7057729431714446
 Total,2012,Rural,South,Poorest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,3.7057729431714446
 Total,2012,Rural,South,Poorest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,100,0,0,100,100,100,0,0,,,,,,3.0,100,0,0,0,100.0,0.0,0.0,0.0,3.7057729431714446
-Total,2012,Rural,South,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,1.0,3.0,0,0,100,0,,100.0,100.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,100,0,0,100,100,100,0,0,,,,,,3.0,100,0,0,0,100.0,0.0,0.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Poorest,"Other, Missing, DK",Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,100,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,100.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Middle,"Other, Missing, DK",Elderly HoH: YES,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,100,,0.0,,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Middle,"Other, Missing, DK",Elderly HoH: YES,Male,CH Sex: Female,Mother Edu: Primary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,100.0,1.0022646770853714
-Total,2012,Rural,South,Poor,"Other, Missing, DK",Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Poor,"Other, Missing, DK",Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,9.0,,,,0,0,100,0,,100.0,0.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Poorest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,1.0022646770853714
-Total,2012,Rural,South,Poor,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,1.0,3.0,0,0,100,0,,100.0,100.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,100,0,0,100,100,100,0,0,,,,,,3.0,100,0,0,0,100.0,0.0,0.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Poorest,"Other, DK, Missing",Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,100,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,100.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Middle,"Other, DK, Missing",Elderly HoH: YES,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,0,0,100,,0.0,,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Middle,"Other, DK, Missing",Elderly HoH: YES,Male,CH Sex: Female,Mother Edu: Primary,100,0,0,0,0,0,100,100,100,100.0,,,,,,0,0,0,0,,0.0,0.0,100.0,1.0022646770853714
+Total,2012,Rural,South,Poor,"Other, DK, Missing",Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Poor,"Other, DK, Missing",Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,9.0,,,,0,0,100,0,,100.0,0.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Poorest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,100,100,100,100,100,0,100,,100.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,1.0022646770853714
+Total,2012,Rural,South,Poor,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Primary,0,0,0,0,0,100,0,0,0,,,,,,3.0,0,0,0,0,,100.0,0.0,0.0,1.0022646770853714
 Total,2012,Rural,South,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,1.3732892824755616
 Total,2012,Rural,South,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,100,100,100,100,0,0,100,,0.0,,,,,0,0,0,0,0.0,0.0,0.0,0.0,1.3732892824755616
 Total,2012,Rural,South,Poorest,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: None/ECE,0,0,100,0,100,100,100,0,0,,,,,,2.0,0,0,0,0,0.0,100.0,0.0,0.0,1.3732892824755616
@@ -9790,8 +9790,8 @@ Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother 
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Higher,0,0,0,0,0,100,0,0,100,,,3.0,1.0,,,0,0,100,0,,0.0,0.0,0.0,1.5680819269517525
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,100,100,100,100,0,0,0,,0.0,5.0,,,3.0,0,0,100,100,100.0,100.0,0.0,0.0,1.5680819269517525
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,100,0,100,100,0,0,0,,,3.0,,,3.0,0,0,100,100,100.0,0.0,0.0,0.0,1.5680819269517525
-Total,2012,Urban,South,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,100,100,100,100,0,0,100,,0.0,,2.0,,,0,0,0,0,0.0,0.0,0.0,0.0,1.5680819269517525
-Total,2012,Urban,South,Richest,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,100,0,100,100,0,0,0,,,3.0,,,3.0,0,0,100,100,100.0,0.0,0.0,0.0,1.5680819269517525
+Total,2012,Urban,South,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,100,100,100,100,0,0,100,,0.0,,2.0,,,0,0,0,0,0.0,0.0,0.0,0.0,1.5680819269517525
+Total,2012,Urban,South,Richest,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,100,0,100,100,0,0,0,,,3.0,,,3.0,0,0,100,100,100.0,0.0,0.0,0.0,1.5680819269517525
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,,2.0,2.0,,0,0,100,0,,0.0,0.0,0.0,1.5680819269517525
 Total,2012,Rural,South,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,0,0,0,100,0,0,0,,,,,,4.0,0,0,100,0,,100.0,0.0,0.0,1.7044467615544443
 Total,2012,Rural,South,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,0,100,100,100,100,100,0,0,,100.0,,,,5.0,0,100,100,0,100.0,0.0,0.0,0.0,1.7044467615544443
@@ -10628,7 +10628,7 @@ Total,2012,Rural,South,Middle,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Moth
 Total,2012,Rural,South,Middle,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,100.0,0.0,0.0,0.2731971812819872
 Total,2012,Rural,South,Middle,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Primary,0,0,100,100,100,100,0,0,100,,0.0,,,,,0,0,0,0,0.0,100.0,0.0,0.0,0.2731971812819872
 Total,2012,Rural,South,Poor,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: None/ECE,0,100,0,0,100,100,100,0,100,,,,,,,0,0,0,0,0.0,0.0,0.0,0.0,0.2731971812819872
-Total,2012,Urban,South,Rich,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,0.40633805333573486
+Total,2012,Urban,South,Rich,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,0.0,0.40633805333573486
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,3.0,3.0,1.0,,0,0,100,0,,0.0,100.0,0.0,0.40633805333573486
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: YES,Male,CH Sex: Male,Mother Edu: Secondary,0,100,0,0,100,100,100,0,0,,,,,,3.0,100,0,0,0,100.0,0.0,0.0,0.0,0.40633805333573486
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Higher,0,0,100,100,100,100,100,0,0,,100.0,4.0,,3.0,,0,0,100,0,0.0,0.0,0.0,0.0,0.40633805333573486
@@ -10687,8 +10687,8 @@ Total,2012,Rural,South,Rich,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother
 Total,2012,Rural,South,Rich,Mon-Khmer,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,100,100,100,100,100,0,100,,100.0,,1.0,,,0,0,0,0,0.0,100.0,0.0,0.0,0.3687840706827139
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,100,0,0,100,100,100,0,0,,,,,,2.0,100,0,0,0,100.0,0.0,0.0,0.0,0.23455146201859606
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Female,CH Sex: Male,Mother Edu: Higher,0,0,0,0,0,100,0,0,100,,,,,,,0,0,0,0,,0.0,0.0,100.0,0.23455146201859606
-Total,2012,Urban,South,Rich,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,3.0,2.0,,3.0,0,0,100,0,,100.0,0.0,0.0,0.23455146201859606
-Total,2012,Urban,South,Rich,"Other, Missing, DK",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,3.0,,,,0,0,0,0,,,,,0.23455146201859606
+Total,2012,Urban,South,Rich,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,0,,,3.0,2.0,,3.0,0,0,100,0,,100.0,0.0,0.0,0.23455146201859606
+Total,2012,Urban,South,Rich,"Other, DK, Missing",Elderly HoH: NO,Male,CH Sex: Male,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,3.0,,,,0,0,0,0,,,,,0.23455146201859606
 Total,2012,Urban,South,Rich,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Higher,0,0,0,0,0,100,0,0,0,,,1.0,1.0,,3.0,0,0,100,0,,0.0,0.0,0.0,0.23455146201859606
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,100,0,0,100,100,100,0,100,,,1.0,1.0,,,0,0,0,0,0.0,0.0,0.0,0.0,0.23455146201859606
 Total,2012,Urban,South,Richest,Lao-Tai,Elderly HoH: NO,Male,CH Sex: Female,Mother Edu: Secondary,0,0,0,0,0,100,0,0,100,,,1.0,1.0,,,0,0,0,0,,0.0,0.0,0.0,0.30987819225653834
